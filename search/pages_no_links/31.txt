@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава четвертая. IV</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть первая. Глава четвертая</div>
+<h4>IV</h4>
+<z><o></o>Только вечером, уже в восьмом часу, я застал его дома. К удивлению моему, у него сидели гости — Алексей Нилыч и еще один полузнакомый мне господин, некто Шигалев, родной брат жены Виргинского.</z>
+<z><o></o>Этот Шигалев, должно быть, уже месяца два как гостил у нас в городе; не знаю, откуда приехал; я слышал про него только, что он напечатал в одном прогрессивном петербургском журнале какую-то статью. Виргинский познакомил меня с ним случайно, на улице. В жизнь мою я не видал в лице человека такой мрачности, нахмуренности и пасмурности. Он смотрел так, как будто ждал разрушения мира, и не то чтобы когда-нибудь, по пророчествам, которые могли бы и не состояться, а совершенно определенно, так-этак послезавтра утром, ровно в двадцать пять минут одиннадцатого. Мы, впрочем, тогда почти ни слова и не сказали, а только пожали друг другу руки с видом двух заговорщиков. Всего более поразили меня его уши неестественной величины, длинные, широкие и толстые, как-то особенно врозь торчавшие. Движения его были неуклюжи и медленны. Если Липутин и мечтал когда-нибудь, что фаланстера могла бы осуществиться в нашей губернии, то этот наверное знал день и час, когда это сбудется. Он произвел на меня впечатление зловещее; встретив же его у Шатова теперь, я подивился, тем более что Шатов и вообще был до гостей не охотник.</z>
+<z><o></o>Еще с лестницы слышно было, что они разговаривают очень громко, все трое разом, и, кажется, спорят; но только что я появился, все замолчали. Они спорили стоя, а теперь вдруг все сели, так что и я должен был сесть. Глупое молчание не нарушалось минуты три полных. Шигалев хотя и узнал меня, но сделал вид, что не знает, и наверно не по вражде, а так. С Алексеем Нилычем мы слегка раскланялись, но молча и почему-то не пожали друг другу руки. Шигалев начал, наконец, смотреть на меня строго и нахмуренно, с самою наивною уверенностию, что я вдруг встану и уйду. Наконец Шатов привстал со стула, и все тоже вдруг вскочили. Они вышли не прощаясь, только Шигалев уже в дверях сказал провожавшему Шатову:</z>
+<z><o></o>— Помните, что вы обязаны отчетом.</z>
+<z><o></o>— Наплевать на ваши отчеты, и никакому черту я не обязан, — проводил его Шатов и запер дверь на крюк.</z>
+<z><o></o>— Кулики! — сказал он, поглядев на меня и как-то криво усмехнувшись.</z>
+<z><o></o>Лицо у него было сердитое, и странно мне было, что он сам заговорил. Обыкновенно случалось прежде, всегда, когда я заходил к нему (впрочем, очень редко), что он нахмуренно садился в угол, сердито отвечал и только после долгого времени совершенно оживлялся и начинал говорить с удовольствием. Зато, прощаясь, опять, всякий раз, непременно нахмуривался и выпускал вас, точно выживал от себя своего личного неприятеля.</z>
+<z><o></o>— Я у этого Алексея Нилыча вчера чай пил, — заметил я, — он, кажется, помешан на атеизме.</z>
+<z><o></o>— Русский атеизм никогда дальше каламбура не заходил, — проворчал Шатов, вставляя новую свечу вместо прежнего огарка.</z>
+<z><o></o>— Нет, этот, мне показалось, не каламбурщик; он и просто говорить, кажется, не умеет, не то что каламбурить.</z>
+<z><o></o>— Люди из бумажки; от лакейства мысли всё это, — спокойно заметил Шатов, присев в углу на стуле и упершись обеими ладонями в колени.</z>
+<z><o></o>— Ненависть тоже тут есть, — произнес он, помолчав с минуту, — они первые были бы страшно несчастливы, если бы Россия как-нибудь вдруг перестроилась, хотя бы даже на их лад, и как-нибудь вдруг стала безмерно богата и счастлива. Некого было бы им тогда ненавидеть, не на кого плевать, не над чем издеваться! Тут одна только животная, бесконечная ненависть к России, в организм въевшаяся... И никаких невидимых миру слез из-под видимого смеха тут нету! Никогда еще не было сказано на Руси более фальшивого слова, как про эти незримые слезы! — вскричал он почти с яростью.</z>
+<z><o></o>— Ну уж это вы бог знает что! — засмеялся я.</z>
+<z><o></o>— А вы — «умеренный либерал», — усмехнулся и Шатов. — Знаете, — подхватил он вдруг, — я, может, и сморозил про «лакейство мысли»; вы, верно, мне тотчас же скажете: «Это ты родился от лакея, а я не лакей».</z>
+<z><o></o>— Вовсе я не хотел сказать... что вы!</z>
+<z><o></o>— Да вы не извиняйтесь, я вас не боюсь. Тогда я только от лакея родился, а теперь и сам стал лакеем, таким же, как и вы. Наш русский либерал прежде всего лакей и только и смотрит, как бы кому-нибудь сапоги вычистить.</z>
+<z><o></o>— Какие сапоги? Что за аллегория?</z>
+<z><o></o>— Какая тут аллегория! Вы, я вижу, смеетесь... Степан Трофимович правду сказал, что я под камнем лежу, раздавлен, да не задавлен, и только корчусь; это он хорошо сравнил.</z>
+<z><o></o>— Степан Трофимович уверяет, что вы помешались на немцах, — смеялся я, — мы с немцев всё же что-нибудь да стащили себе в карман.</z>
+<z><o></o>— Двугривенный взяли, а сто рублей своих отдали.</z>
+<z><o></o>С минуту мы помолчали.</z>
+<z><o></o>— А это он в Америке себе належал.</z>
+<z><o></o>— Кто? Что́ належал?</z>
+<z><o></o>— Я про Кириллова. Мы с ним там четыре месяца в избе на полу пролежали.</z>
+<z><o></o>— Да разве вы ездили в Америку? — удивился я. — Вы никогда не говорили.</z>
+<z><o></o>— Чего рассказывать. Третьего года мы отправились втроем на эмигрантском пароходе в Американские Штаты на последние деньжишки, «чтобы испробовать на себе жизнь американского рабочего и таким образом <i>личным</i> опытом проверить на себе состояние человека в самом тяжелом его общественном положении». Вот с какою целию мы отправились.</z>
+<z><o></o>— Господи! — засмеялся я. — Да вы бы лучше для этого куда-нибудь в губернию нашу отправились в страдную пору, «чтоб испытать личным опытом», а то понесло в Америку!</z>
+<z><o></o>— Мы там нанялись в работники к одному эксплуататору; всех нас, русских, собралось у него человек шесть — студенты, даже помещики из своих поместий, даже офицеры были, и всё с тою же величественною целью. Ну и работали, мокли, мучились, уставали, наконец я и Кириллов ушли — заболели, не выдержали. Эксплуататор-хозяин нас при расчете обсчитал, вместо тридцати долларов по условию заплатил мне восемь, а ему пятнадцать; тоже и бивали нас там не раз. Ну тут-то без работы мы и пролежали с Кирилловым в городишке на полу четыре месяца рядом; он об одном думал, а я о другом.</z>
+<z><o></o>— Неужто хозяин вас бил, это в Америке-то? Ну как, должно быть, вы ругали его!</z>
+<z><o></o>— Ничуть. Мы, напротив, тотчас решили с Кирилловым, что «мы, русские, пред американцами маленькие ребятишки и нужно родиться в Америке или по крайней мере сжиться долгими годами с американцами, чтобы стать с ними в уровень». Да что: когда с нас за копеечную вещь спрашивали по доллару, то мы платили не только с удовольствием, но даже с увлечением. Мы всё хвалили: спиритизм, закон Линча, револьверы, бродяг. Раз мы едем, а человек полез в мой карман, вынул мою головную щетку и стал причесываться; мы только переглянулись с Кирилловым и решили, что это хорошо и что это нам очень нравится...</z>
+<z><o></o>— Странно, что это у нас не только заходит в голову, но и исполняется, — заметил я.</z>
+<z><o></o>— Люди из бумажки, — повторил Шатов.</z>
+<z><o></o>— Но, однако ж, переплывать океан на эмигрантском пароходе, в неизвестную землю, хотя бы и с целью «узнать личным опытом» и т. д. — в этом, ей-богу, есть как будто какая-то великодушная твердость... Да как же вы оттуда выбрались?</z>
+<z><o></o>— Я к одному человеку в Европу написал, и он мне прислал сто рублей.</z>
+<z><o></o>Шатов, разговаривая, всё время по обычаю своему упорно смотрел в землю, даже когда и горячился. Тут же вдруг поднял голову:</z>
+<z><o></o>— А хотите знать имя человека?</z>
+<z><o></o>— Кто же таков?</z>
+<z><o></o>— Николай Ставрогин.</z>
+<z><o></o>Он вдруг встал, повернулся к своему липовому письменному столу и начал на нем что-то шарить. У нас ходил неясный, но достоверный слух, что жена его некоторое время находилась в связи с Николаем Ставрогиным в Париже и именно года два тому назад, значит, когда Шатов был в Америке, — правда, уже давно после того, как оставила его в Женеве. «Если так, то зачем же его дернуло теперь с именем вызваться и размазывать?» — подумалось мне.</z>
+<z><o></o>— Я еще ему до сих пор не отдал, — оборотился он ко мне вдруг опять и, поглядев на меня пристально, уселся на прежнее место в углу и отрывисто спросил совсем уже другим голосом:</z>
+<z><o></o>— Вы, конечно, зачем-то пришли; что вам надо?</z>
+<z><o></o>Я тотчас же рассказал всё, в точном историческом порядке, и прибавил, что хоть я теперь и успел одуматься после давешней горячки, но еще более спутался: понял, что тут что-то очень важное для Лизаветы Николаевны, крепко желал бы помочь, но вся беда в том, что не только не знаю, как сдержать данное ей обещание, но даже не понимаю теперь, что именно ей обещал. Затем внушительно подтвердил ему еще раз, что она не хотела и не думала его обманывать, что тут вышло какое-то недоразумение и что она очень огорчена его необыкновенным давешним уходом.</z>
+<z><o></o>Он очень внимательно выслушал.</z>
+<z><o></o>— Может быть, я, по моему обыкновению, действительно давеча глупость сделал... Ну, если она сама не поняла, отчего я так ушел, так... ей же лучше.</z>
+<z><o></o>Он встал, подошел к двери, приотворил ее и стал слушать на лестницу.</z>
+<z><o></o>— Вы желаете эту особу сами увидеть?</z>
+<z><o></o>— Этого-то и надо, да как это сделать? — вскочил я обрадовавшись.</z>
+<z><o></o>— А просто пойдемте, пока одна сидит. Он придет, так изобьет ее, коли узнает, что мы приходили. Я часто хожу потихоньку. Я его давеча прибил, когда он опять ее бить начал.</z>
+<z><o></o>— Что вы это?</z>
+<z><o></o>— Именно; за волосы от нее отволок; он было хотел меня за это отколотить, да я испугал его, тем и кончилось. Боюсь, пьяный воротиться, припомнит — крепко ее за то исколотит.</z>
+<z><o></o>Мы тотчас же сошли вниз.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">III</div><span class="tocb ho" id="toc" title="Оглавление">31/108</span><div class="navlnktxt">V</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.013137972 -->

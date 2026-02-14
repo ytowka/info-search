@@ -1,0 +1,237 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть вторая. Глава третья. Поединок</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть вторая</div>
+<h3><i>Глава третья</i><br/>
+Поединок</h3>
+<h4>I</h4>
+<z><o></o>На другой день, в два часа пополудни, предположенная дуэль состоялась. Быстрому исходу дела способствовало неукротимое желание Артемия Павловича Гаганова драться во что бы ни стало. Он не понимал поведения своего противника и был в бешенстве. Целый уже месяц он оскорблял его безнаказанно и всё еще не мог вывести из терпения. Вызов ему был необходим со стороны самого Николая Всеволодовича, так как сам он не имел прямого предлога к вызову. В тайных же побуждениях своих, то есть просто в болезненной ненависти к Ставрогину за фамильное оскорбление четыре года назад, он почему-то совестился сознаться. Да и сам считал такой предлог невозможным, особенно ввиду смиренных извинений, уже два раза предложенных Николаем Всеволодовичем. Он положил про себя, что тот бесстыдный трус; понять не мог, как тот мог снести пощечину от Шатова; таким образом и решился наконец послать то необычайное по грубости своей письмо, которое побудило наконец самого Николая Всеволодовича предложить встречу. Отправив накануне это письмо и в лихорадочном нетерпении ожидая вызова, болезненно рассчитывая шансы к тому, то надеясь, то отчаиваясь, он на всякий случай еще с вечера припас себе секунданта, а именно Маврикия Николаевича Дроздова, своего приятеля, школьного товарища и особенно уважаемого им человека. Таким образом, Кириллов, явившийся на другой день поутру в девять часов с своим поручением, нашел уже почву совсем готовую. Все извинения и неслыханные уступки Николая Всеволодовича были тотчас же с первого слова и с необыкновенным азартом отвергнуты. Маврикий Николаевич, накануне лишь узнавший о ходе дела, при таких неслыханных предложениях открыл было рот от удивления и хотел тут же настаивать на примирении, но, заметив, что Артемий Павлович, предугадавший его намерения, почти затрясся на своем стуле, смолчал и не произнес ничего. Если бы не слово, данное товарищу, он ушел бы немедленно; остался же в единственной надежде помочь хоть чем-нибудь при самом исходе дела. Кириллов передал вызов; все условия встречи, обозначенные Ставрогиным, были приняты тотчас же буквально, без малейшего возражения. Сделана была только одна прибавка, впрочем очень жестокая, именно: если с первых выстрелов не произойдет ничего решительного, то сходиться в другой раз; если не кончится ничем и в другой, сходиться в третий. Кириллов нахмурился, поторговался насчет третьего раза, но, не выторговав ничего, согласился, с тем, однако ж, что «три раза можно, а четыре никак нельзя». В этом уступили. Таким образом, в два часа пополудни и состоялась встреча в Брыкове, то есть в подгородной маленькой рощице между Скворешниками с одной стороны и фабрикой Шпигулиных — с другой. Вчерашний дождь перестал совсем, но было мокро, сыро и ветрено. Низкие мутные разорванные облака быстро неслись по холодному небу; деревья густо и перекатно шумели вершинами и скрипели на корнях своих; очень было грустное утро.</z>
+<z><o></o>Гаганов с Маврикием Николаевичем прибыли на место в щегольском шарабане парой, которым правил Артемий Павлович; при них находился слуга. Почти в ту же минуту явились и Николай Всеволодович с Кирилловым, но не в экипаже, а верхами, и тоже в сопровождении верхового слуги. Кириллов, никогда не садившийся на коня, держался в седле смело и прямо, прихватывая правою рукой тяжелый ящик с пистолетами, который не хотел доверить слуге, а левою, по неуменью, беспрерывно крутя и дергая поводья, отчего лошадь мотала головой и обнаруживала желание стать на дыбы, что, впрочем, нисколько не пугало всадника. Мнительный, быстро и глубоко оскорблявшийся Гаганов почел прибытие верховых за новое себе оскорбление, в том смысле, что враги слишком, стало быть, надеялись на успех, коли не предполагали даже нужды в экипаже на случай отвоза раненого. Он вышел из своего шарабана весь желтый от злости и почувствовал, что у него дрожат руки, о чем и сообщил Маврикию Николаевичу. На поклон Николая Всеволодовича не ответил совсем и отвернулся. Секунданты бросили жребий: вышло пистолетам Кириллова. Барьер отмерили, противников расставили, экипаж и лошадей с лакеями отослали шагов на триста назад. Оружие было заряжено и вручено противникам.</z>
+<z><o></o>Жаль, что надо вести рассказ быстрее и некогда описывать; но нельзя и совсем без отметок. Маврикий Николаевич был грустен и озабочен. Зато Кириллов был совершенно спокоен и безразличен, очень точен в подробностях принятой на себя обязанности, но без малейшей суетливости и почти без любопытства к роковому и столь близкому исходу дела. Николай Всеволодович был бледнее обыкновенного, одет довольно легко, в пальто и белой пуховой шляпе. Он казался очень усталым, изредка хмурился и нисколько не находил нужным скрывать свое неприятное расположение духа. Но Артемий Павлович был в сию минуту всех замечательнее, так что никак нельзя не сказать об нем нескольких слов совсем особенно.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">IV</div><span class="tocb ho" id="toc" title="Оглавление">54/108</span><div class="navlnktxt">II</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000477476 -->

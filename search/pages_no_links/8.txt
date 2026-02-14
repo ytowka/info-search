@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава первая. VIII</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть первая. Глава первая</div>
+<h4>VIII</h4>
+<z><o></o>Затем у нас наступило затишье и тянулось почти сплошь все эти девять лет. Истерические взрывы и рыдания на моем плече, продолжавшиеся регулярно, нисколько не мешали нашему благоденствию. Удивляюсь, как Степан Трофимович не растолстел за это время. Покраснел лишь немного его нос и прибавилось благодушия. Мало-помалу около него утвердился кружок приятелей, впрочем постоянно небольшой. Варвара Петровна хоть и мало касалась кружка, но все мы признавали ее нашею патронессой. После петербургского урока она поселилась в нашем городе окончательно; зимой жила в городском своем доме, а летом в подгородном своем имении. Никогда она не имела столько значения и влияния, как в последние семь лет, в нашем губернском обществе, то есть вплоть до назначения к нам нашего теперешнего губернатора. Прежний губернатор наш, незабвенный и мягкий Иван Осипович, приходился ей близким родственником и был когда-то ею облагодетельствован. Супруга его трепетала при одной мысли не угодить Варваре Петровне, а поклонение губернского общества дошло до того, что напоминало даже нечто греховное. Было, стало быть, хорошо и Степану Трофимовичу. Он был членом клуба, осанисто проигрывал и заслужил почет, хотя многие смотрели на него только как на «ученого». Впоследствии, когда Варвара Петровна позволила ему жить в другом доме, нам стало еще свободнее. Мы собирались у него раза по два в неделю; бывало весело, особенно когда он не жалел шампанского. Вино забиралось в лавке того же Андреева. Расплачивалась по счету Варвара Петровна каждые полгода, и день расплаты почти всегда бывал днем холерины.</z>
+<z><o></o>Стариннейшим членом кружка был Липутин, губернский чиновник, человек уже немолодой, большой либерал и в городе слывший атеистом. Женат он был во второй раз на молоденькой и хорошенькой, взял за ней приданое и кроме того, имел трех подросших дочерей. Всю семью держал в страхе божием и взаперти, был чрезмерно скуп и службой скопил себе домик и капитал. Человек был беспокойный, притом в маленьком чине; в городе его мало уважали, а в высшем круге не принимали. К тому же он был явный и не раз уже наказанный сплетник, и наказанный больно, раз одним офицером, а в другой раз почтенным отцом семейства, помещиком. Но мы любили его острый ум, любознательность, его особенную злую веселость. Варвара Петровна не любила его, но он всегда как-то умел к ней подделаться.</z>
+<z><o></o>Не любила она и Шатова, всего только в последний год ставшего членом кружка. Шатов был прежде студентом и был исключен после одной студентской истории из университета; в детстве же был учеником Степана Трофимовича, а родился крепостным Варвары Петровны, от покойного камердинера ее Павла Федорова, и был ею облагодетельствован. Не любила она его гордость и неблагодарность и никак не могла простить ему, что он по изгнании из университета не приехал к ней тотчас же; напротив, даже на тогдашнее нарочное письмо ее к нему ничего не ответил и предпочел закабалиться к какому-то цивилизованному купцу учить детей. Вместе с семьей этого купца он выехал за границу, скорее в качестве дядьки, чем гувернера; но уж очень хотелось ему тогда за границу. При детях находилась еще и гувернантка, бойкая русская барышня, поступившая в дом тоже пред самым выездом и принятая более за дешевизну. Месяца через два купец ее выгнал «за вольные мысли». Поплелся за нею и Шатов и вскорости обвенчался с нею в Женеве. Прожили они вдвоем недели с три, а потом расстались, как вольные и ничем не связанные люди; конечно, тоже и по бедности. Долго потом скитался он один по Европе, жил бог знает чем; говорят, чистил на улицах сапоги и в каком-то порте был носильщиком. Наконец, с год тому назад вернулся к нам в родное гнездо и поселился со старухой теткой, которую и схоронил через месяц. С сестрой своею Дашей, тоже воспитанницей Варвары Петровны, жившею у ней фавориткой на самой благородной ноге, он имел самые редкие и отдаленные сношения. Между нами был постоянно угрюм и неразговорчив; но изредка, когда затрогивали его убеждения, раздражался болезненно и был очень невоздержан на язык. «Шатова надо сначала связать, а потом уж с ним рассуждать», — шутил иногда Степан Трофимович; но он любил его. За границей Шатов радикально изменил некоторые из прежних социалистических своих убеждений и перескочил в противоположную крайность. Это было одно из тех идеальных русских существ, которых вдруг поразит какая-нибудь сильная идея и тут же разом точно придавит их собою, иногда даже навеки. Справиться с нею они никогда не в силах, а уверуют страстно, и вот вся жизнь их проходит потом как бы в последних корчах под свалившимся на них и наполовину совсем уже раздавившим их камнем. Наружностью Шатов вполне соответствовал своим убеждениям: он был неуклюж, белокур, космат, низкого роста, с широкими плечами, толстыми губами, с очень густыми, нависшими белобрысыми бровями, с нахмуренным лбом, с неприветливым, упорно потупленным и как бы чего-то стыдящимся взглядом. На волосах его вечно оставался один такой вихор, который ни за что не хотел пригладиться и стоял торчком. Лет ему было двадцать семь или двадцать восемь. «Я не удивляюсь более, что жена от него сбежала», — отнеслась Варвара Петровна однажды, пристально к нему приглядевшись. Старался он одеваться чистенько, несмотря на чрезвычайную свою бедность. К Варваре Петровне опять не обратился за помощию, а пробивался чем бог пошлет; занимался и у купцов. Раз сидел в лавке, потом совсем было уехал на пароходе с товаром, приказчичьим помощником, но заболел пред самою отправкой. Трудно представить себе, какую нищету способен он был переносить, даже и не думая о ней вовсе. Варвара Петровна после его болезни переслала ему секретно и анонимно сто рублей. Он разузнал, однако же, секрет, подумал, деньги принял и пришел к Варваре Петровне поблагодарить. Та с жаром приняла его, но он и тут постыдно обманул ее ожидания: просидел всего пять минут, молча, тупо уставившись в землю и глупо улыбаясь, и вдруг, не дослушав ее и на самом интересном месте разговора, встал, поклонился как-то боком, косолапо, застыдился в прах, кстати уж задел и грохнул об пол ее дорогой наборный рабочий столик, разбил его и вышел, едва живой от позора. Липутин очень укорял его потом за то, что он не отвергнул тогда с презрением эти сто рублей, как от бывшей его деспотки помещицы, и не только принял, а еще благодарить потащился. Жил он уединенно, на краю города, и не любил, если кто-нибудь даже из нас заходил к нему. На вечера к Степану Трофимовичу являлся постоянно и брал у него читать газеты и книги.</z>
+<z><o></o>Являлся на вечера и еще один молодой человек, некто Виргинский, здешний чиновник, имевший некоторое сходство с Шатовым, хотя, по-видимому, и совершенно противоположный ему во всех отношениях; но это тоже был «семьянин». Жалкий и чрезвычайно тихий молодой человек, впрочем лет уже тридцати, с значительным образованием, но больше самоучка. Он был беден, женат, служил и содержал тетку и сестру своей жены. Супруга его да и все дамы были самых последних убеждений, но всё это выходило у них несколько грубовато, именно — тут была «идея, попавшая на улицу», как выразился когда-то Степан Трофимович по другому поводу. Они всё брали из книжек и, по первому даже слуху из столичных прогрессивных уголков наших, готовы были выбросить за окно всё что угодно, лишь бы только советовали выбрасывать. Madame Виргинская занималась у нас в городе повивальною профессией; в девицах она долго жила в Петербурге. Сам Виргинский был человек редкой чистоты сердца, и редко я встречал более честный душевный огонь. «Я никогда, никогда не отстану от этих светлых надежд», — говаривал он мне с сияющими глазами. О «светлых надеждах» он говорил всегда тихо, с сладостию, полушепотом, как бы секретно. Он был довольно высокого роста, но чрезвычайно тонок и узок в плечах, с необыкновенно жиденькими, рыжеватого оттенка волосиками. Все высокомерные насмешки Степана Трофимовича над некоторыми из его мнений он принимал кротко, возражал же ему иногда очень серьезно и во многом ставил его в тупик. Степан Трофимович обращался с ним ласково, да и вообще ко всем нам относился отечески.</z>
+<z><o></o>— Все вы из «недосиженных», — шутливо замечал он Виргинскому, — все подобные вам, хотя в вас, Виргинский, я и не замечал той огра-ни-чен-ности, какую встречал в Петербурге shez ces séminaristes,<fn><sup> <a class="fnr ho" id="fnr1" name="fns1">1</sup></fn> но все-таки вы «недосиженные». Шатову очень хотелось бы высидеться, но и он недосиженный.</z>
+<z><o></o>— А я? — спрашивал Липутин.</z>
+<z><o></o>— А вы просто золотая средина, которая везде уживается... по-своему.</z>
+<z><o></o>Липутин обижался.</z>
+<z><o></o>Рассказывали про Виргинского, и, к сожалению, весьма достоверно, что супруга его, не пробыв с ним и году в законном браке, вдруг объявила ему, что он отставлен и что она предпочитает Лебядкина. Этот Лебядкин, какой-то заезжий, оказался потом лицом весьма подозрительным и вовсе даже не был отставным штабс-капитаном, как сам титуловал себя. Он только умел крутить усы, пить и болтать самый неловкий вздор, какой только можно вообразить себе. Этот человек пренеделикатно тотчас же к ним переехал, обрадовавшись чужому хлебу, ел и спал у них и стал, наконец, третировать хозяина свысока. Уверяли, что Виргинский, при объявлении ему женой отставки, сказал ей: «Друг мой, до сих пор я только любил тебя, теперь уважаю», но вряд ли в самом деле произнесено было такое древнеримское изречение; напротив, говорят, навзрыд плакал. Однажды, недели две после отставки, все они, всем «семейством», отправились за город, в рощу, кушать чай вместе с знакомыми. Виргинский был как-то лихорадочно-весело настроен и участвовал в танцах; но вдруг и без всякой предварительной ссоры схватил гиганта Лебедкина, канканировавшего соло, обеими руками за волосы, нагнул и начал таскать его с визгами, криками и слезами. Гигант до того струсил, что даже не защищался и всё время, как его таскали, почти не прерывал молчания; но после таски обиделся со всем пылом благородного человека. Виргинский всю ночь на коленях умолял жену о прощении; но прощения не вымолил, потому что все-таки не согласился пойти извиниться пред Лебядкиным; кроме того, был обличен в скудости убеждений и в глупости; последнее потому, что, объясняясь с женщиной, стоял на коленях. Штабс-капитан вскоре скрылся и явился опять в нашем городе только в самое последнее время, с своею сестрой и с новыми целями; но о нем впереди. Не мудрено, что бедный «семьянин» отводил у нас душу и нуждался в нашем обществе. О домашних делах своих он никогда, впрочем, у нас не высказывался. Однажды только, возвращаясь со мною от Степана Трофимовича, заговорил было отдаленно о своем положении, но тут же, схватив меня за руку, пламенно воскликнул:</z>
+<z><o></o>— Это ничего; это только частный случай; это нисколько, нисколько не помешает «общему делу»!</z>
+<z><o></o>Являлись к нам в кружок и случайные гости; ходил жидок Лямшин, ходил капитан Картузов. Бывал некоторое время один любознательный старичок, но помер. Привел было Липутин ссыльного ксендза Слоньцевского, и некоторое время его принимали по принципу, но потом и принимать не стали.</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn>1</fnn></fnb>
+<z><o></o>У этих семинаристов <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">VII</div><span class="tocb ho" id="toc" title="Оглавление">8/108</span><div class="navlnktxt">IX</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.00052116 -->

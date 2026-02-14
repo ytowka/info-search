@@ -1,0 +1,263 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава вторая. VII</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть первая. Глава вторая</div>
+<h4>VII</h4>
+<z><o></o>Это правда, что «Дарью» она не дала бы в обиду; напротив, теперь-то и считала себя ее благодетельницей. Самое благородное и безупречное негодование загорелось в душе ее, когда, надевая шаль, она поймала на себе смущенный и недоверчивый взгляд своей воспитанницы. Она искренно любила ее с самого ее детства. Прасковья Ивановна справедливо назвала Дарью Павловну ее фавориткой. Давно уже Варвара Петровна решила раз навсегда, что «Дарьин характер не похож на братнин» (то есть на характер брата ее, Ивана Шатова), что она тиха и кротка, способна к большому самопожертвованию, отличается преданностию, необыкновенною скромностию, редкою рассудительностию, и, главное, благодарностию. До сих пор, по-видимому, Даша оправдывала все ее ожидания. «В этой жизни не будет ошибок», — сказала Варвара Петровна, когда девочке было еще двенадцать лет, и так как она имела свойство привязываться упрямо и страстно к каждой пленившей ее мечте, к каждому своему новому предначертанию, к каждой мысли своей, показавшейся ей светлою, то тотчас же и решила воспитывать Дашу как родную дочь. Она немедленно отложила ей капитал и пригласила в дом гувернантку, мисс Кригс, которая и прожила у них до шестнадцатилетнего возраста воспитанницы, но ей вдруг почему-то было отказано. Ходили учителя из гимназии, между ними один настоящий француз, который и обучил Дашу по-французски. Этому тоже было отказано вдруг, точно прогнали. Одна бедная заезжая дама, вдова из благородных, обучала на фортепиано. Но главным педагогом был все-таки Степан Трофимович. По-настоящему, он первый и открыл Дашу: он стал обучать тихого ребенка еще тогда, когда Варвара Петровна о ней и не думала. Опять повторю: удивительно, как к нему привязывались дети! Лизавета Николаевна Тушина училась у него с восьми лет до одиннадцати (разумеется, Степан Трофимович учил ее без вознаграждения и ни за что бы не взял его от Дроздовых). Но он сам влюбился в прелестного ребенка и рассказывал ей какие-то поэмы об устройстве мира, земли, об истории человечества. Лекции о первобытных народах и о первобытном человеке были занимательнее арабских сказок. Лиза, которая млела за этими рассказами, чрезвычайно смешно передразнивала у себя дома Степана Трофимовича. Тот узнал про это и раз подглядел ее врасплох. Сконфуженная Лиза бросилась к нему в объятия и заплакала. Степан Трофимович тоже, от восторга. Но Лиза скоро уехала, и осталась одна Даша. Когда к Даше стали ходить учителя, то Степан Трофимович оставил с нею свои занятия и мало-помалу совсем перестал обращать на нее внимание. Так продолжалось долгое время. Раз, когда уже ей было семнадцать лет, он был вдруг поражен ее миловидностию. Это случилось за столом у Варвары Петровны. Он заговорил с молодою девушкой, был очень доволен ее ответами и кончил предложением прочесть ей серьезный и обширный курс истории русской литературы. Варвара Петровна похвалила и поблагодарила его за прекрасную мысль, а Даша была в восторге. Степан Трофимович стал особенно приготовляться к лекциям, и наконец они наступили. Начали с древнейшего периода; первая лекция прошла увлекательно; Варвара Петровна присутствовала. Когда Степан Трофимович кончил и, уходя, объявил ученице, что в следующий раз приступит к разбору «Слова о полку Игореве», Варвара Петровна вдруг встала и объявила, что лекций больше не будет. Степан Трофимович покоробился, но смолчал, Даша вспыхнула; тем и кончилась, однако же, затея. Произошло это ровно за три года до теперешней неожиданной фантазии Варвары Петровны.</z>
+<z><o></o>Бедный Степан Трофимович сидел один и ничего не предчувствовал. В грустном раздумье давно уже поглядывал он в окно, не подойдет ли кто из знакомых. Но никто не хотел подходить. На дворе моросило, становилось холодно; надо было протопить печку; он вздохнул. Вдруг страшное видение предстало его очам: Варвара Петровна в такую погоду и в такой неурочный час к нему! И пешком! Он до того был поражен, что забыл переменить костюм и принял ее как был, в своей всегдашней розовой ватной фуфайке.</z>
+<z><o></o>— Ma bonne amie!.. — слабо крикнул он ей навстречу.</z>
+<z><o></o>— Вы одни, я рада: терпеть не могу ваших друзей! Как вы всегда накурите; господи, что за воздух! Вы и чай не допили, а на дворе двенадцатый час! Ваше блаженство — беспорядок! Ваше наслаждение — сор! Что это за разорванные бумажки на полу? Настасья, Настасья! Что делает ваша Настасья? Отвори, матушка, окна, форточки, двери, всё настежь. А мы в залу пойдемте; я к вам за делом. Да подмети ты хоть раз в жизни, матушка!</z>
+<z><o></o>— Сорят-с! — раздражительно-жалобным голоском пропищала Настасья.</z>
+<z><o></o>— А ты мети, пятнадцать раз в день мети! Дрянная у вас зала (когда вышли в залу). Затворите крепче двери, она станет подслушивать. Непременно надо обои переменить. Я ведь вам присылала обойщика с образчиками, что же вы не выбрали? Садитесь и слушайте. Садитесь же наконец, прошу вас. Куда же вы? Куда же вы? Куда же вы!</z>
+<z><o></o>— Я... сейчас, — крикнул из другой комнаты Степан Трофимович, — вот я и опять!</z>
+<z><o></o>— А, вы переменили костюм! — насмешливо оглядела она его. (Он накинул сюртук сверх фуфайки). Этак действительно будет более подходить... к нашей речи. Садитесь же наконец, прошу вас.</z>
+<z><o></o>Она объяснила ему всё сразу, резко и убедительно. Намекнула и о восьми тысячах, которые были ему дозарезу нужны. Подробно рассказала о приданом. Степан Трофимович таращил глаза и трепетал. Слышал всё, но ясно не мог сообразить. Хотел заговорить, но всё обрывался голос. Знал только, что всё так и будет, как она говорит, что возражать и не соглашаться дело пустое, а он женатый человек безвозвратно.</z>
+<z><o></o>— Mais, ma bonne amie,<fn><sup> <a class="fnr ho" id="fnr1" name="fns1">1</sup></fn> в третий раз в моих летах... и с таким ребенком! — проговорил он наконец. — Mais c'est une enfant!<fn><sup> <a class="fnr ho" id="fnr2" name="fns2">2</sup></fn></z>
+<z><o></o>— Ребенок, которому двадцать лет, слава богу! Не вертите, пожалуйста, зрачками, прошу вас, вы не на театре. Вы очень умны и учены, но ничего не понимаете в жизни, за вами постоянно должна нянька ходить. Я умру, и что с вами будет? А она будет вам хорошею нянькой; это девушка скромная, твердая, рассудительная; к тому же я сама буду тут, не сейчас же умру. Она домоседка, она ангел кротости. Эта счастливая мысль мне еще в Швейцарии приходила. Понимаете ли вы, если я сама вам говорю, что она ангел кротости! — вдруг яростно вскричала она. — У вас сор, она заведет чистоту, порядок, всё будет как зеркало... Э, да неужто же вы мечтаете, что я еще кланяться вам должна с таким сокровищем, исчислять все выгоды, сватать! Да вы должны бы на коленях... О, пустой, пустой, малодушный человек!</z>
+<z><o></o>— Но... я уже старик!</z>
+<z><o></o>— Что значат ваши пятьдесят три года! Пятьдесят лет не конец, а половина жизни. Вы красивый мужчина, и сами это знаете. Вы знаете тоже, как она вас уважает. Умри я, что с нею будет? А за вами она спокойна, и я спокойна. У вас значение, имя, любящее сердце; вы получаете пенсион, который я считаю своею обязанностию. Вы, может быть, спасете ее, спасете! Во всяком случае, честь доставите. Вы сформируете ее к жизни, разовьете ее сердце, направите мысли. Нынче сколько погибают оттого, что дурно направлены мысли! К тому времени поспеет ваше сочинение, и вы разом о себе напомните.</z>
+<z><o></o>— Я именно, — пробормотал он, уже польщенный ловкою лестью Варвары Петровны, — я именно собираюсь теперь присесть за мои «Рассказы из испанской истории»...</z>
+<z><o></o>— Ну, вот видите, как раз и сошлось.</z>
+<z><o></o>— Но... она? Вы ей говорили?</z>
+<z><o></o>— О ней не беспокойтесь, да и нечего вам любопытствовать. Конечно, вы должны ее сами просить, умолять сделать вам честь, понимаете? Но не беспокойтесь, я сама буду тут. К тому же вы ее любите...</z>
+<z><o></o>У Степана Трофимовича закружилась голова; стены пошли кругом. Тут была одна страшная идея, с которою он никак не мог сладить.</z>
+<z><o></o>— Excellente amie! — задрожал вдруг его голос, — я... я никогда не мог вообразить, что вы решитесь выдать меня... за другую... женщину!</z>
+<z><o></o>— Вы не девица, Степан Трофимович; только девиц выдают, а вы сами женитесь, — ядовито прошипела Варвара Петровна.</z>
+<z><o></o>— Qui, j'ai pris un mot pour un autre. Mais... c'est égal,<fn><sup> <a class="fnr ho" id="fnr3" name="fns3">3</sup></fn> — уставился он на нее с потерянным видом.</z>
+<z><o></o>— Вижу, что c'est égal, — презрительно процедила она, — господи! да с ним обморок! Настасья, Настасья! воды!</z>
+<z><o></o>Но до воды не дошло. Он очнулся. Варвара Петровна взяла свой зонтик.</z>
+<z><o></o>— Я вижу, что с вами теперь нечего говорить...</z>
+<z><o></o>— Oui, oui, je suis incapable.<fn><sup> <a class="fnr ho" id="fnr4" name="fns4">4</sup></fn></z>
+<z><o></o>— Но к завтраму вы отдохнете и обдумаете. Сидите дома, если что случится, дайте знать, хотя бы ночью. Писем не пишите, и читать не буду. Завтра же в это время приду сама, одна, за окончательным ответом, и надеюсь, что он будет удовлетворителен. Постарайтесь, чтобы никого не было и чтобы сору не было, а это на что похоже? Настасья, Настасья!</z>
+<z><o></o>Разумеется, назавтра он согласился; да и не мог не согласиться. Тут было одно особое обстоятельство...</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn>1</fnn></fnb>
+<z><o></o>Но, мой добрый друг <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt2"><fnb><fnn>2</fnn></fnb>
+<z><o></o>Но ведь это ребенок! <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt3"><fnb><fnn>3</fnn></fnb>
+<z><o></o>Да, я оговорился. Но... это всё равно <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt4"><fnb><fnn>4</fnn></fnb>
+<z><o></o>Да, да, я не в состоянии <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">VI</div><span class="tocb ho" id="toc" title="Оглавление">16/108</span><div class="navlnktxt">VIII</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.013528468 -->

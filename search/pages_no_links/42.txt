@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава пятая. VIII</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть первая. Глава пятая</div>
+<h4>VIII</h4>
+<z><o></o>Прежде всего упомяну, что в последние две-три минуты Лизаветой Николаевной овладело какое-то новое движение; она быстро шепталась о чем-то с мама и с наклонившимся к ней Маврикием Николаевичем. Лицо ее было тревожно, но в то же время выражало решимость. Наконец встала с места, видимо торопясь уехать и торопя мама́, которую начал приподымать с кресел Маврикий Николаевич. Но, видно, не суждено им было уехать, не досмотрев всего до конца.</z>
+<z><o></o>Шатов, совершенно всеми забытый в своем углу (неподалеку от Лизаветы Николаевны) и, по-видимому, сам не знавший, для чего он сидел и не уходил, вдруг поднялся со стула и через всю комнату, неспешным, но твердым шагом направился к Николаю Всеволодовичу, прямо смотря ему в лицо. Тот еще издали заметил его приближение и чуть-чуть усмехнулся; но когда Шатов подошел к нему вплоть, то перестал усмехаться.</z>
+<z><o></o>Когда Шатов молча пред ним остановился, не спуская с него глаз, все вдруг это заметили и затихли, позже всех Петр Степанович; Лиза и мама остановились посреди комнаты. Так прошло секунд пять; выражение дерзкого недоумения сменилось в лице Николая Всеволодовича гневом, он нахмурил брови, и вдруг...</z>
+<z><o></o>И вдруг Шатов размахнулся своею длинною, тяжелою рукою и изо всей силы ударил его по щеке. Николай Всеволодович сильно качнулся на месте.</z>
+<z><o></o>Шатов и ударил-то по-особенному, вовсе не так, как обыкновенно принято давать пощечины (если только можно так выразиться), не ладонью, а всем кулаком, а кулак у него был большой, веский, костлявый, с рыжим пухом и с веснушками. Если б удар пришелся по носу, то раздробил бы нос. Но пришелся он по щеке, задев левый край губы и верхних зубов, из которых тотчас же потекла кровь.</z>
+<z><o></o>Кажется, раздался мгновенный крик, может быть, вскрикнула Варвара Петровна — этого не припомню, потому что всё тотчас же опять как бы замерло. Впрочем, вся сцена продолжалась не более каких-нибудь десяти секунд.</z>
+<z><o></o>Тем не менее в эти десять секунд произошло ужасно много.</z>
+<z><o></o>Напомню опять читателю, что Николай Всеволодович принадлежал к тем натурам, которые страха не ведают. На дуэли он мог стоять под выстрелом противника хладнокровно, сам целить и убивать до зверства спокойно. Если бы кто ударил его по щеке, то, как мне кажется, он бы и на дуэль не вызвал, а тут же, тотчас же убил бы обидчика; он именно был из таких, и убил бы с полным сознанием, а вовсе не вне себя. Мне кажется даже, что он никогда и не знал тех ослепляющих порывов гнева, при которых уже нельзя рассуждать. При бесконечной злобе, овладевавшей им иногда, он все-таки всегда мог сохранять полную власть над собой, а стало быть, и понимать, что за убийство не на дуэли его непременно сошлют в каторгу; тем не менее он все-таки убил бы обидчика, и без малейшего колебания.</z>
+<z><o></o>Николая Всеволодовича я изучал всё последнее время и, по особым обстоятельствам, знаю о нем теперь, когда пишу это, очень много фактов. Я, пожалуй, сравнил бы его с иными прошедшими господами, о которых уцелели теперь в нашем обществе некоторые легендарные воспоминания. Рассказывали, например, про декабриста Л—на, что он всю жизнь нарочно искал опасности, упивался ощущением ее, обратил его в потребность своей природы; в молодости выходил на дуэль ни за что; в Сибири с одним ножом ходил на медведя, любил встречаться в сибирских лесах с беглыми каторжниками, которые, замечу мимоходом, страшнее медведя. Сомнения нет, что эти легендарные господа способны были ощущать, и даже, может быть, в сильной степени, чувство страха, — иначе были бы гораздо спокойнее и ощущение опасности не обратили бы в потребность своей природы. Но побеждать в себе трусость — вот что, разумеется, их прельщало. Беспрерывное упоение победой и сознание, что нет над тобой победителя — вот что их увлекало. Этот Л—н еще прежде ссылки некоторое время боролся с голодом и тяжким трудом добывал себе хлеб единственно из-за того, что ни за что не хотел подчиниться требованиям своего богатого отца, которые находил несправедливыми. Стало быть многосторонне понимал борьбу; не с медведями только и не на одних дуэлях ценил в себе стойкость и силу характера.</z>
+<z><o></o>Но все-таки с тех пор прошло много лет, и нервозная, измученная и раздвоившаяся природа людей нашего времени даже и вовсе не допускает теперь потребности тех непосредственных и цельных ощущений, которых так искали тогда иные, беспокойные в своей деятельности, господа доброго старого времени. Николай Всеволодович, может быть, отнесся бы к Л—ну свысока, даже назвал бы его вечно храбрящимся трусом, петушком, — правда, не стал бы высказываться вслух. Он бы и на дуэли застрелил противника, и на медведя сходил бы, если бы только надо было, и от разбойника отбился бы в лесу — так же успешно и так же бесстрашно, как и Л—н, но зато уж безо всякого ощущения наслаждения, и единственно по неприятной необходимости, вяло, лениво, даже со скукой. В злобе, разумеется, выходил прогресс против Л—на, даже против Лермонтова. Злобы в Николае Всеволодовиче было, может быть, больше, чем в тех обоих вместе, но злоба эта была холодная, спокойная и, если можно так выразиться, <i>разумная,</i> стало быть, самая отвратительная и самая страшная, какая может быть. Еще раз повторяю: я и тогда считал его и теперь считаю (когда уже всё кончено) именно таким человеком, который, если бы получил удар в лицо или подобную равносильную обиду, то немедленно убил бы своего противника, тотчас же, тут же на месте и без вызова на дуэль.</z>
+<z><o></o>И однако же, в настоящем случае произошло нечто иное и чудное.</z>
+<z><o></o>Едва только он выпрямился после того, как так позорно качнулся на бок, чуть не на целую половину роста, от полученной пощечины, и не затих еще, казалось, в комнате подлый, как бы мокрый какой-то звук от удара кулака по лицу, как тотчас же он схватил Шатова обеими руками за плечи; но тотчас же, в тот же почти миг, отдернул свои обе руки назад и скрестил их у себя за спиной. Он молчал, смотрел на Шатова и бледнел как рубашка. Но странно, взор его как бы погасал. Через десять секунд глаза его смотрели холодно и — я убежден, что не лгу, — спокойно. Только бледен он был ужасно. Разумеется, я не знаю, что было внутри человека, я видел снаружи. Мне кажется, если бы был такой человек, который схватил бы, например, раскаленную докрасна железную полосу и зажал в руке, с целию измерить свою твердость, и затем, в продолжение десяти секунд, побеждал бы нестерпимую боль и кончил тем, что ее победил, то человек этот, кажется мне, вынес бы нечто похожее на то, что испытал теперь, в эти десять секунд, Николай Всеволодович.</z>
+<z><o></o>Первый из них опустил глаза Шатов и, видимо, потому, что принужден был опустить. Затем медленно повернулся и пошел из комнаты, но вовсе уж не тою походкой, которою подходил давеча. Он уходил тихо, как-то особенно неуклюже приподняв сзади плечи, понурив голову и как бы рассуждая о чем-то сам с собой. Кажется, он что-то шептал. До двери дошел осторожно, ни за что не зацепив и ничего не опрокинув, дверь же приотворил на маленькую щелочку, так что пролез в отверстие почти боком. Когда пролезал, то вихор его волос, стоявший торчком на затылке, был особенно заметен.</z>
+<z><o></o>Затем, прежде всех криков, раздался один страшный крик. Я видел, как Лизавета Николаевна схватила было свою мама́ за плечо, а Маврикия Николаевича за руку и раза два-три рванула их за собой, увлекая из комнаты, но вдруг вскрикнула и со всего росту упала на пол в обмороке. До сих пор я как будто еще слышу, как стукнулась она о ковер затылком.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">VII</div><span class="tocb ho" id="toc" title="Оглавление">42/108</span><div class="navlnktxt">Часть вторая</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000485793 -->

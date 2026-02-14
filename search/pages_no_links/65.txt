@@ -1,0 +1,257 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть вторая. Глава шестая. II</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть вторая. Глава шестая</div>
+<h4>II</h4>
+<z><o></o>Произошла одна комбинация, которую господин фон Лембке никак не мог разрешить. В уезде (в том самом, в котором пировал недавно Петр Степанович) один подпоручик подвергся словесному выговору своего ближайшего командира. Случилось это пред всею ротой. Подпоручик был еще молодой человек, недавно из Петербурга, всегда молчаливый и угрюмый, важный с виду, хотя в то же время маленький, толстый и краснощекий. Он не вынес выговора и вдруг бросился на командира с каким-то неожиданным взвизгом, удивившим всю роту, как-то дико наклонив голову; ударил и изо всей силы укусил его в плечо; насилу могли оттащить. Сомнения не было, что сошел с ума, по крайней мере обнаружилось, что в последнее время он замечен был в самых невозможных странностях. Выбросил, например, из квартиры своей два хозяйские образа и один из них изрубил топором; в своей же комнате разложил на подставках, в виде трех налоев, сочинения Фохта, Молешотта и Бюхнера и пред каждым налоем зажигал восковые церковные свечки. По количеству найденных у него книг можно было заключить, что человек он начитанный. Если б у него было пятьдесят тысяч франков, то он уплыл бы, может быть, на Маркизские острова, как тот «кадет», о котором упоминает с таким веселым юмором господин Герцен в одном из своих сочинений. Когда его взяли, то в карманах его и в квартире нашли целую пачку самых отчаянных прокламаций.</z>
+<z><o></o>Прокламации сами по себе тоже дело пустое и, по-моему, вовсе не хлопотливое. Мало ли мы их видали. Притом же это были и не новые прокламации: такие же точно, как говорили потом, были недавно рассыпаны в Х—ской губернии, а Липутин, ездивший месяца полтора назад в уезд и в соседнюю губернию, уверял, что уже тогда видел там такие же точно листки. Но поразило Андрея Антоновича, главное, то, что управляющий на Шпигулинской фабрике доставил как раз в то же время в полицию две или три пачки совершенно таких же точно листочков, как и у подпоручика, подкинутых ночью на фабрике. Пачки были еще и не распакованы, и никто из рабочих не успел прочесть ни одной. Факт был глупенький, но Андрей Антонович усиленно задумался. Дело представлялось ему в неприятно сложном виде.</z>
+<z><o></o>В этой фабрике Шпигулиных только что началась тогда та самая «шпигулинская история», о которой так много у нас прокричали и которая с такими вариантами перешла и в столичные газеты. Недели с три назад заболел там и умер один рабочий азиатскою холерой; потом заболело еще несколько человек. Все в городе струсили, потому что холера надвигалась из соседней губернии. Замечу, что у нас были приняты по возможности удовлетворительные санитарные меры для встречи непрошеной гостьи. Но фабрику Шпигулиных, миллионеров и людей со связями, как-то просмотрели. И вот вдруг все стали вопить, что в ней-то и таится корень и рассадник болезни, что на самой фабрике и особенно в помещениях рабочих такая закоренелая нечистота, что если б и не было совсем холеры, то она должна была бы там сама зародиться. Меры, разумеется, были тотчас же приняты, и Андрей Антонович энергически настоял на немедленном их исполнении. Фабрику очистили недели в три, но Шпигулины неизвестно почему ее закрыли. Один брат Шпигулин постоянно проживал в Петербурге, а другой, после распоряжения начальства об очистке, уехал в Москву. Управляющий приступил к расчету работников и, как теперь оказывается, нагло мошенничал. Работники стали роптать, хотели расчета справедливого, по глупости ходили в полицию, впрочем без большого крика и вовсе уж не так волновались. Вот в это-то время и доставлены были Андрею Антоновичу прокламации от управляющего.</z>
+<z><o></o>Петр Степанович влетел в кабинет не доложившись, как добрый друг и свой человек, да и к тому же с поручением от Юлии Михайловны. Увидев его, фон Лембке угрюмо нахмурился и неприветливо остановился у стола. До этого он расхаживал по кабинету и толковал о чем-то глаз на глаз с чиновником своей канцелярии Блюмом, чрезвычайно неуклюжим и угрюмым немцем, которого привез с собой из Петербурга, несмотря на сильнейшую оппозицию Юлии Михайловны. Чиновник при входе Петра Степановича отступил к дверям, но не вышел. Петру Степановичу даже показалось, что он как-то знаменательно переглянулся с своим начальником.</z>
+<z><o></o>— Ого, поймал-таки вас, скрытный градоначальник! — возопил, смеясь, Петр Степанович и накрыл ладонью лежавшую на столе прокламацию. — Это умножит вашу коллекцию, а?</z>
+<z><o></o>Андрей Антонович вспыхнул. Что-то вдруг как бы перекосилось в его лице.</z>
+<z><o></o>— Оставьте, оставьте сейчас! — вскричал он, вздрогнув от гнева, — и не смейте... сударь...</z>
+<z><o></o>— Чего вы так? Вы, кажется, сердитесь?</z>
+<z><o></o>— Позвольте вам заметить, милостивый государь, что я вовсе не намерен отселе терпеть вашего sans façon<fn><sup> <a class="fnr ho" id="fnr1" name="fns1">1</sup></fn> и прошу вас припомнить...</z>
+<z><o></o>— Фу, черт, да ведь он и в самом деле!</z>
+<z><o></o>— Молчите же, молчите! — затопал по ковру ногами фон Лембке, — и не смейте...</z>
+<z><o></o>Бог знает до чего бы дошло. Увы, тут было еще одно обстоятельство помимо всего, совсем неизвестное ни Петру Степановичу, ни даже самой Юлии Михайловне. Несчастный Андрей Антонович дошел до такого расстройства, что в последние дни про себя стал ревновать свою супругу к Петру Степановичу. В уединении, особенно по ночам, он выносил неприятнейшие минуты.</z>
+<z><o></o>— А я думал, если человек два дня сряду за полночь читает вам наедине свой роман и хочет вашего мнения, то уж сам по крайней мере вышел из этих официальностей... Меня Юлия Михайловна принимает на короткой ноге; как вас тут распознаешь? — с некоторым даже достоинством произнес Петр Степанович. — Вот вам кстати и ваш роман, — положил он на стол большую, вескую, свернутую в трубку тетрадь, наглухо обернутую синею бумагой.</z>
+<z><o></o>Лембке покраснел и замялся.</z>
+<z><o></o>— Где же вы отыскали? — осторожно спросил он с приливом радости, которую сдержать не мог, но сдерживал, однако ж, изо всех сил.</z>
+<z><o></o>— Вообразите, как была в трубке, так и скатилась за комод. Я, должно быть, как вошел, бросил ее тогда неловко на комод. Только третьего дня отыскали, полы мыли, задали же вы мне, однако, работу!</z>
+<z><o></o>Лембке строго опустил глаза.</z>
+<z><o></o>— Две ночи сряду не спал по вашей милости. Третьего дня еще отыскали, а я удержал, всё читал, днем-то некогда, так я по ночам. Ну-с, и — недоволен: мысль не моя. Да наплевать, однако, критиком никогда не бывал, но — оторваться, батюшка, не мог, хоть и недоволен! Четвертая и пятая главы это... это... это... черт знает что такое! И сколько юмору у вас напихано, хохотал. Как вы, однако ж, умеете поднять на смех sans que cela paraisse!<fn><sup> <a class="fnr ho" id="fnr2" name="fns2">2</sup></fn> Ну, там в девятой, десятой, это всё про любовь, не мое дело; эффектно, однако; за письмом Игренева чуть не занюнил, хотя вы его так тонко выставили... Знаете, оно чувствительно, а в то же время вы его как бы фальшивым боком хотите выставить, ведь так? Угадал я или нет? Ну, а за конец просто избил бы вас. Ведь вы что проводите? Ведь это то же прежнее обоготворение семейного счастия, приумножения детей, капиталов, стали жить-поживать да добра наживать, помилуйте! Читателя очаруете, потому что даже я оторваться не мог, да ведь тем сквернее. Читатель глуп по-прежнему, следовало бы его умным людям расталкивать, а вы... Ну да довольно, однако прощайте. Не сердитесь в другой раз; я пришел было вам два словечка нужных сказать; да вы какой-то такой...</z>
+<z><o></o>Андрей Антонович между тем взял свои роман и запер на ключ в дубовый книжный шкаф, успев, между прочим, мигнуть Блюму, чтобы тот стушевался. Тот исчез с вытянутым и грустным лицом.</z>
+<z><o></o>— Я не <i>какой-то такой,</i> а я просто... всё неприятности — пробормотал он нахмурясь, но уже без гнева и подсаживаясь к столу, — садитесь и скажите ваши два слова. Я вас давно не видал, Петр Степанович, и только не влетайте вы вперед с вашею манерой... иногда при делах оно...</z>
+<z><o></o>— Манеры у меня одни...</z>
+<z><o></o>— Знаю-с, и верю, что вы без намерения, но иной раз находишься в хлопотах... Садитесь же.</z>
+<z><o></o>Петр Степанович разлегся на диване и мигом поджал под себя ноги.</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn>1</fnn></fnb>
+<z><o></o>бесцеремонности <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt2"><fnb><fnn>2</fnn></fnb>
+<z><o></o>не подавая вида <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">I</div><span class="tocb ho" id="toc" title="Оглавление">65/108</span><div class="navlnktxt">III</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000497673 -->

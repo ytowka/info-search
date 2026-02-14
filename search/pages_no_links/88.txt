@@ -1,0 +1,284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть третья. Глава третья. III</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть третья. Глава третья</div>
+<h4>III</h4>
+<z><o></o>Он бросился догонять Лизавету Николаевну. Та еще недалеко отошла, всего несколько шагов от дому. Ее задержал было Алексей Егорович, следовавший за нею и теперь, на шаг позади, во фраке, почтительно преклонившись и без шляпы. Он неотступно умолял ее дождаться экипажа; старик был испуган и почти плакал.</z>
+<z><o></o>— Ступай, барин чаю просит, некому подать, — оттолкнул его Петр Степанович и прямо взял под руку Лизавету Николаевну.</z>
+<z><o></o>Та не вырвала руки, но, кажется, была не при всем рассудке, еще не опомнилась.</z>
+<z><o></o>— Во-первых, вы не туда, — залепетал Петр Степанович, — нам надо сюда, а не мимо сада; а во-вторых, во всяком случае пешком невозможно, до вас три версты, а у вас и одежи нет. Если бы вы капельку подождали. Я ведь на беговых, лошадь тут на дворе, мигом подам, посажу и доставлю, так что никто не увидит.</z>
+<z><o></o>— Какой вы добрый... — ласково проговорила Лиза.</z>
+<z><o></o>— Помилуйте, в подобном случае всякий гуманный человек на моем месте также...</z>
+<z><o></o>Лиза поглядела на него и удивилась.</z>
+<z><o></o>— Ах, боже мой, а я думала, что тут всё еще тот старик!</z>
+<z><o></o>— Послушайте, я ужасно рад, что вы это так принимаете, потому что всё это предрассудок ужаснейший, и если уж на то пошло, то не лучше ли я этому старику сейчас велю обработать карету, всего десять минут, а мы воротимся и под крыльцом подождем, а?</z>
+<z><o></o>— Я прежде хочу... где эти убитые?</z>
+<z><o></o>— А, ну вот еще фантазия! Я так и боялся... Нет, мы уж эту дрянь лучше оставим в стороне; да и нечего вам смотреть.</z>
+<z><o></o>— Я знаю, где они, я этот дом знаю.</z>
+<z><o></o>— Ну что ж, что знаете! Помилуйте, дождь, туман (вот, однако ж, обязанность священную натащил!)... Слушайте, Лизавета Николаевна, одно из двух: или вы со мной на дрожках, тогда подождите и ни шагу вперед, потому что если еще шагов двадцать, то нас непременно заметит Маврикий Николаевич.</z>
+<z><o></o>— Маврикий Николаевич! Где? Где?</z>
+<z><o></o>— Ну, а если вы с ним хотите, то я, пожалуй, вас еще немного проведу и укажу его, где сидит, а сам уж слуга покорный; я к нему не хочу теперь подходить.</z>
+<z><o></o>— Он ждет меня, боже! — вдруг остановилась она, и краска разлилась по ее лицу.</z>
+<z><o></o>— Но помилуйте, если он человек без предрассудков! Знаете, Лизавета Николаевна, это всё не мое дело; я совершенно тут в стороне, и вы это сами знаете; но я ведь вам все-таки желаю добра... Если не удалась наша «ладья», если оказалось, что это всего только старый, гнилой баркас, годный на слом...</z>
+<z><o></o>— Ах, чудесно! — вскричала Лиза.</z>
+<z><o></o>— Чудесно, а у самой слезы текут. Тут нужно мужество. Надо ни в чем не уступать мужчине. В наш век, когда женщина... фу, черт (едва не отплевался Петр Степанович)! А главное, и жалеть не о чем: может, оно и отлично обернется. Маврикий Николаевич человек... одним словом, человек чувствительный, хотя и неразговорчивый, что, впрочем, тоже хорошо, конечно при условии, если он без предрассудков...</z>
+<z><o></o>— Чудесно, чудесно! — истерически рассмеялась Лиза.</z>
+<z><o></o>— А, ну, черт... Лизавета Николаевна, — опикировался вдруг Петр Степанович, — я ведь, собственно, тут для вас же... мне ведь что... Я вам услужил вчера, когда вы сами того захотели, а сегодня... Ну, вот отсюда видно Маврикия Николаевича, вон он сидит, нас не видит. Знаете, Лизавета Николаевна, читали вы «Полиньку Сакс»?</z>
+<z><o></o>— Что такое?</z>
+<z><o></o>— Есть такая повесть, «Полинька Сакс». Я еще студентом читал. Там какой-то чиновник, Сакс, с большим состоянием, арестовал на даче жену за неверность... А, ну, черт, наплевать! Вот увидите, что Маврикий Николаевич еще до дому сделает вам предложение. Он нас еще не видит.</z>
+<z><o></o>— Ах, пусть не видит! — вскричала вдруг Лиза как безумная. — Уйдемте, уйдемте! В лес, в поле!</z>
+<z><o></o>И она побежала назад.</z>
+<z><o></o>— Лизавета Николаевна, это уж такое малодушие! — бежал за нею Петр Степанович. — И к чему вы не хотите, чтоб он вас видел? Напротив, посмотрите ему прямо и гордо в глаза... Если вы что-нибудь насчет <i>того...</i> девичьего... то ведь это такой предрассудок, такая отсталость... Да куда же вы, куда же вы? Эх, бежит! Воротимтесь уж лучше к Ставрогину, возьмем мои дрожки... Да куда же вы? Там поле... ну, упала!..</z>
+<z><o></o>Он остановился. Лиза летела как птица, не зная куда, и Петр Степанович уже шагов на пятьдесят отстал от нее. Она упала, споткнувшись о кочку. В ту же минуту сзади, в стороне, раздался ужасный крик, крик Маврикия Николаевича, который видел ее бегство и падение и бежал к ней чрез поле. Петр Степанович в один миг отретировался в ворота ставрогинского дома, чтобы поскорее сесть на свои дрожки.</z>
+<z><o></o>А Маврикий Николаевич, в страшном испуге, уже стоял подле поднявшейся Лизы, склонясь над нею и держа ее руку в своих руках. Вся невероятная обстановка этой встречи потрясла его разум, и слезы текли по его лицу. Он видел ту, пред которою столь благоговел, безумно бегущею чрез поле, в такой час, в такую погоду, в одном платье, в этом пышном вчерашнем платье, теперь измятом, загрязненном от падения... Он не мог сказать слова, снял свою шинель и дрожавшими руками стал укрывать ее плечи. Вдруг он вскрикнул, почувствовав, что она прикоснулась губами к его руке.</z>
+<z><o></o>— Лиза! — вскричал он, — я ничего не умею, но не отгоняйте меня от себя!</z>
+<z><o></o>— О да, пойдемте скорей отсюда, не оставляйте меня! — и, сама схватив его за руку, она повлекла его за собой. — Маврикий Николаевич, — испуганно понизила она вдруг голос, — я там всё храбрилась, а здесь смерти боюсь. Я умру, очень скоро умру, но я боюсь, боюсь умирать... — шептала она, крепко сжимая его руку.</z>
+<z><o></o>— О, хоть бы кто-нибудь! — в отчаянии оглядывался он кругом, — хоть бы какой проезжий! Вы промочите ноги, вы... потеряете рассудок!</z>
+<z><o></o>— Ничего, ничего, — ободряла она его, — вот так, при вас я меньше боюсь, держите меня за руку, ведите меня... Куда мы теперь, домой? Нет, я хочу сначала видеть убитых. Они, говорят, зарезали его жену, а он говорит, что он сам зарезал; ведь это неправда, неправда? Я хочу видеть сама зарезанных... за меня... из-за них он в эту ночь разлюбил меня... Я увижу и всё узнаю. Скорей, скорей, я знаю этот дом... там пожар... Маврикий Николаевич, друг мой, не прощайте меня, бесчестную! Зачем меня прощать? Чего вы плачете? Дайте мне пощечину и убейте здесь в поле, как собаку!</z>
+<z><o></o>— Никто вам теперь не судья, — твердо произнес Маврикий Николаевич, — прости вам бог, а я ваш судья меньше всех!</z>
+<z><o></o>Но странно было бы описывать их разговор. А между тем оба шли рука в руку, скоро, спеша, словно полоумные. Они направлялись прямо на пожар. Маврикий Николаевич всё еще не терял надежды встретить хоть какую-нибудь телегу, но никто не попадался. Мелкий, тонкий дождь проницал всю окрестность, поглощая всякий отблеск и всякий оттенок и обращая всё в одну дымную, свинцовую, безразличную массу. Давно уже был день, а казалось, всё еще не рассвело. И вдруг из этой дымной, холодной мглы вырезалась фигура, странная и нелепая, шедшая им навстречу. Воображая теперь, думаю, что я бы не поверил глазам, если б даже был на месте Лизаветы Николаевны; а между тем она радостно вскрикнула и тотчас узнала подходившего человека. Это был Степан Трофимович. Как он ушел, каким образом могла осуществиться безумная, головная идея его бегства — о том впереди. Упомяну лишь, что в это утро он был уже в лихорадке, но и болезнь не остановила его: он твердо шагал по мокрой земле; видно было, что обдумал предприятие, как только мог это сделать лучше, один при всей своей кабинетной неопытности. Одет был «по-дорожному», то есть шинель в рукава, а подпоясан широким кожаным лакированным поясом с пряжкой, при этом высокие новые сапоги и панталоны в голенищах. Вероятно, он так давно уже воображал себе дорожного человека, а пояс и высокие сапоги с блестящими гусарскими голенищами, в которых он не умел ходить, припас еще несколько дней назад. Шляпа с широкими полями, гарусный шарф, плотно обматывавший шею, палка в правой руке, а в левой чрезвычайно маленький, но чрезмерно туго набитый саквояж довершали костюм. Вдобавок, в той же правой руке распущенный зонтик. Эти три предмета — зонтик, палку и саквояж — было очень неловко нести всю первую версту, а со второй и тяжело.</z>
+<z><o></o>— Неужто это в самом деле вы? — вскричала Лиза, оглядывая его в скорбном удивлении, сменившем первый порыв ее бессознательной радости.</z>
+<z><o></o>— Lise! — вскричал и Степан Трофимович, бросаясь к ней тоже почти в бреду. — Chère, chère, неужто и вы... в таком тумане? Видите: зарево! Vous êtes malheureuse, n'est-ce pas?<fn><sup> <a class="fnr ho" id="fnr1" name="fns1">1</sup></fn> Вижу, вижу, не рассказывайте, но не расспрашивайте и меня. Nous sommes tous malheureux, mais il faut les pardonner tous. Pardonnons, Lise,<fn><sup> <a class="fnr ho" id="fnr2" name="fns2">2</sup></fn> и будем свободны навеки. Чтобы разделаться с миром и стать свободным вполне — il faut pardonner, pardonner et pardonner!<fn><sup> <a class="fnr ho" id="fnr3" name="fns3">3</sup></fn></z>
+<z><o></o>— Но зачем вы становитесь на колени?</z>
+<z><o></o>— Затем, что, прощаясь с миром, хочу, в вашем образе, проститься и со всем моим прошлым! — Он заплакал и поднес обе ее руки к своим заплаканным глазам. — Становлюсь на колена пред всем, что было прекрасно в моей жизни, лобызаю и благодарю! Теперь я разбил себя пополам: там — безумец, мечтавший взлететь на небо, vingt deux ans!<fn><sup> <a class="fnr ho" id="fnr4" name="fns4">4</sup></fn> Здесь — убитый и озябший старик-гувернер... chez ce marchand, s'il existe pourtant ce marchand...<fn><sup> <a class="fnr ho" id="fnr5" name="fns5">5</sup></fn> Но как вы измокли, Lise! — вскричал он, вскакивая на ноги, почувствовав, что промокли и его колени на мокрой земле, — и как это можно, вы в таком платье?.. и пешком, и в таком поле... Вы плачете? Vous êtes malheureuse?<fn><sup> <a class="fnr ho" id="fnr6" name="fns6">6</sup></fn> Ба, я что-то слышал... Но откуда же вы теперь? — с боязливым видом ускорял он вопросы, в глубоком недоумении посматривая на Маврикия Николаевича, — mais savez-vous l'heure qu'il est!<fn><sup> <a class="fnr ho" id="fnr7" name="fns7">7</sup></fn></z>
+<z><o></o>— Степан Трофимович, слышали вы что-нибудь там про убитых людей... Это правда? Правда?</z>
+<z><o></o>— Эти люди! Я видел зарево их деяний всю ночь. Они не могли кончить иначе... (Глаза его вновь засверкали). Бегу из бреду, горячечного сна, бегу искать Россию, existe-t-elle la Russie? Bah, c'est vous, cher capitaine!<fn><sup> <a class="fnr ho" id="fnr8" name="fns8">8</sup></fn> Никогда не сомневался, что встречу вас где-нибудь при высоком подвиге... Но возьмите мой зонтик и — почему же непременно пешком? Ради бога возьмите хоть зонтик, а я всё равно где-нибудь найму экипаж. Ведь я потому пешком, что Stasie (то есть Настасья) раскричалась бы на всю улицу, если б узнала, что я уезжаю; я и ускользнул сколь возможно incognito. Я не знаю, там в «Голосе» пишут про повсеместные разбои, но ведь не может же, я думаю, быть, что сейчас, как вышел на дорогу, тут и разбойник? Chère Lise,<fn><sup> <a class="fnr ho" id="fnr9" name="fns9">9</sup></fn> вы, кажется, сказали, что кто-то кого-то убил? O mon Dieu,<fn><sup> <a class="fnr ho" id="fnr10" name="fns10">10</sup></fn> с вами дурно!</z>
+<z><o></o>— Идем, идем! — вскричала как в истерике Лиза, опять увлекая за собою Маврикия Николаевича. — Постойте, Степан Трофимович, — воротилась она вдруг к нему, — постойте, бедняжка, дайте я вас перекрещу. Может быть, вас бы лучше связать, но я уж лучше вас перекрещу. Помолитесь и вы за «бедную» Лизу — так, немножко, не утруждайте себя очень. Маврикий Николаевич, отдайте этому ребенку его зонтик, отдайте непременно. Вот так... Пойдемте же! Пойдемте же!</z>
+<z><o></o>Прибытие их к роковому дому произошло именно в то самое мгновение, когда сбившаяся пред домом густая толпа уже довольно наслушалась о Ставрогине и о том, как выгодно было ему зарезать жену. Но все-таки, повторяю, огромное большинство продолжало слушать молча и неподвижно. Выходили из себя лишь пьяные горланы да люди «срывающиеся», вроде как тот махавший руками мещанин. Его все знали как человека даже тихого, но он вдруг как бы срывался и куда-то летел, если что-нибудь известным образом поражало его. Я не видел, как прибыли Лиза и Маврикий Николаевич. Впервой я заметил Лизу, остолбенев от изумления, уже далеко от меня в толпе, а Маврикия Николаевича даже сначала и не разглядел. Кажется, был такой миг, что он от нее отстал шага на два за теснотой или его оттерли. Лиза, прорывавшаяся сквозь толпу, не видя и не замечая ничего кругом себя, словно горячечная, словно убежавшая из больницы, разумеется, слишком скоро обратила на себя внимание: громко заговорили и вдруг завопили. Тут кто-то крикнул: «Это ставрогинская!». И с другой стороны: «Мало что убьют, глядеть придут!». Вдруг я увидел, что над ее головой, сзади, поднялась и опустилась чья-то рука; Лиза упала. Раздался ужасный крик Маврикия Николаевича, рванувшегося на помощь и ударившего изо всех сил заслонявшего от него Лизу человека. Но в тот же самый миг обхватил его сзади обеими руками тот мещанин. Несколько времени нельзя было ничего разглядеть в начавшейся свалке. Кажется, Лиза поднялась, но опять упала от другого удара. Вдруг толпа расступилась, и образовался небольшой пустой круг около лежавшей Лизы, а окровавленный, обезумевший Маврикий Николаевич стоял над нею, крича, плача и ломая руки. Не помню в полной точности, как происходило дальше; помню только, что Лизу вдруг понесли. Я бежал за нею; она была еще жива и, может быть, еще в памяти. Из толпы схватили мещанина и еще трех человек. Эти трое до сих пор отрицают всякое свое участие в злодеянии, упорно уверяя, что их захватили ошибкой; может, они и правы. Мещанин, хоть и явно уличенный, но, как человек без толку, до сих пор еще не может разъяснить обстоятельно происшедшего. Я тоже, как очевидец, хотя и отдаленный, должен был дать на следствии мое показание: я заявил, что всё произошло в высшей степени случайно, через людей, хотя, может быть, и настроенных, но мало сознававших, пьяных и уже потерявших нитку. Такого мнения держусь и теперь.</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn>1</fnn></fnb>
+<z><o></o>Вы несчастны, не правда ли? <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt2"><fnb><fnn>2</fnn></fnb>
+<z><o></o>Мы все несчастны, но нужно их простить всех. Простим, Лиза <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt3"><fnb><fnn>3</fnn></fnb>
+<z><o></o>нужно прощать, прощать и прощать! <i>(франц</i><div style="font-size:0;"></div></z></span><span id="fnt4"><fnb><fnn>4</fnn></fnb>
+<z><o></o>двадцать два года! <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt5"><fnb><fnn>5</fnn></fnb>
+<z><o></o>у этого купцы, если только он существует, этот купец... <i>(франц.)</i><div style="font-size:0;"></div></z></span><span id="fnt6"><fnb><fnn>6</fnn></fnb>
+<z><o></o>Вы несчастны? <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt7"><fnb><fnn>7</fnn></fnb>
+<z><o></o>но знаете ли вы, который теперь час? <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt8"><fnb><fnn>8</fnn></fnb>
+<z><o></o>существует ли она, Россия? Ба, это вы, дорогой капитан! <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt9"><fnb><fnn>9</fnn></fnb>
+<z><o></o>Дорогая Лиза <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt10"><fnb><fnn>10</fnn></fnb>
+<z><o></o>О боже мой <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">II</div><span class="tocb ho" id="toc" title="Оглавление">88/108</span><div class="navlnktxt">Глава четвертая. Последнее решение</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000541384 -->

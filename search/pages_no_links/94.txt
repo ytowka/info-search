@@ -1,0 +1,304 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть третья. Глава пятая. II</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть третья. Глава пятая</div>
+<h4>II</h4>
+<z><o></o>Эркель был такой «дурачок», у которого только главного толку не было в голове, царя в голове; но маленького, подчиненного толку у него было довольно, даже до хитрости. Фанатически, младенчески преданный «общему делу», а в сущности Петру Верховенскому, он действовал по его инструкции, данной ему в то время, когда в заседании у <i>наших</i> условились и распределили роли на завтра. Петр Степанович, назначая ему роль посланника, успел поговорить с ним минут десять в сторонке. Исполнительная часть была потребностью этой мелкой, малорассудочной, вечно жаждущей подчинения чужой воле натуры — о, конечно не иначе как ради «общего» или «великого» дела. Но и это было всё равно, ибо маленькие фанатики, подобные Эркелю, никак не могут понять служения идее, иначе как слив ее с самим лицом, по их понятию выражающим эту идею. Чувствительный, ласковый и добрый Эркель, быть может, был самым бесчувственным из убийц, собравшихся на Шатова, и безо всякой личной ненависти, не смигнув глазом, присутствовал бы при его убиении. Ему велено было, например, хорошенько, между прочим, высмотреть обстановку Шатова, во время исполнения своего поручения, и когда Шатов, приняв его на лестнице, сболтнул в жару, всего вероятнее не заметив того, что к нему воротилась жена, — у Эркеля тотчас же достало инстинктивной хитрости не выказать ни малейшего дальнейшего любопытства, несмотря на блеснувшую в уме догадку, что факт воротившейся жены имеет большое значение в успехе их предприятия...</z>
+<z><o></o>Так в сущности и было: один только этот факт и спас «мерзавцев» от намерения Шатова, а вместе с тем и помог им от него «избавиться»... Во-первых, он взволновал Шатова, выбил его из колеи, отнял от него обычную прозорливость и осторожность. Какая-нибудь идея о своей собственной безопасности менее всего могла прийти теперь в его голову, занятую совсем другим. Напротив, он с увлечением поверил, что Петр Верховенский завтра бежит: это так совпадало с его подозрениями! Возвратясь в комнату, он опять уселся в угол, уперся локтями в колена и закрыл руками лицо. Горькие мысли его мучили...</z>
+<z><o></o>И вот он снова подымал голову, вставал на цыпочки и шел на нее поглядеть: «Господи! Да у нее завтра же разовьется горячка, к утру, пожалуй уже теперь началась! Конечно, простудилась. Она не привыкла к этому ужасному климату, а тут вагон, третий класс, кругом вихрь, дождь, а у нее такой холодный бурнусик, совсем никакой одежонки... И тут-то ее оставить, бросить без помощи! Сак-то, сак-то какой крошечный, легкий, сморщенный, десять фунтов! Бедная, как она изнурена, сколько вынесла! Она горда, оттого и не жалуется. Но раздражена, раздражена! Это болезнь: и ангел в болезни станет раздражителен. Какой сухой, горячий, должно быть, лоб, как темно под глазами и... и как, однако, прекрасен этот овал лица и эти пышные волосы, как...».</z>
+<z><o></o>И он поскорее отводил глаза, поскорей отходил, как бы пугаясь одной идеи видеть в ней что-нибудь другое, чем несчастное, измученное существо, которому надо помочь, — «какие уж тут <i>надежды</i>! О, как низок, как подл человек!» — и он шел опять в свой угол, садился, закрывал лицо руками и опять мечтал, опять припоминал... и опять мерещились ему надежды.</z>
+<z><o></o>«„Ох, устала, ох, устала!“ — припоминал он ее восклицания, ее слабый, надорванный голос. Господи! Бросить ее теперь, а у ней восемь гривен; протянула свой портмоне, старенький, крошечный! Приехала места искать — ну что она понимает в местах, что они понимают в России? Ведь это как блажные дети, всё у них собственные фантазии, ими же созданные; и сердится, бедная, зачем не похожа Россия на их иностранные мечтаньица! О несчастные, о невинные!.. И однако, в самом деле здесь холодно...».</z>
+<z><o></o>Он вспомнил, что она жаловалась, что он обещался затопить печь. «Дрова тут, можно принести, не разбудить бы только. Впрочем, можно. А как решить насчет телятины? Встанет, может быть, захочет кушать... Ну, это после; Кириллов всю ночь не спит. Чем бы ее накрыть, она так крепко спит, но ей, верно, холодно, ах, холодно!».</z>
+<z><o></o>И он еще раз подошел на нее посмотреть; платье немного завернулось, и половина правой ноги открылась до колена. Он вдруг отвернулся, почти в испуге, снял с себя теплое пальто и, оставшись в стареньком сюртучишке, накрыл, стараясь не смотреть, обнаженное место.</z>
+<z><o></o>Зажигание дров, хождение на цыпочках, осматривание спящей, мечты в углу, потом опять осматривание спящей взяли много времени. Прошло два-три часа. И вот в это-то время у Кириллова успели побывать Верховенский и Липутин. Наконец и он задремал в углу. Раздался ее стон; она пробудилась, она звала его; он вскочил как преступник.</z>
+<z><o></o>— Marie! Я было заснул... Ах, какой я подлец, Marie!</z>
+<z><o></o>Она привстала, озираясь с удивлением, как бы не узнавая, где находится, и вдруг вся всполошилась в негодовании, в гневе:</z>
+<z><o></o>— Я заняла вашу постель, я заснула вне себя от усталости; как смели вы не разбудить меня? Как осмелились подумать, что я намерена быть вам в тягость?</z>
+<z><o></o>— Как мог я разбудить тебя, Marie?</z>
+<z><o></o>— Могли; должны были! Для вас тут нет другой постели, а я заняла вашу. Вы не должны были ставить меня в фальшивое положение. Или вы думаете, я приехала пользоваться вашими благодеяниями? Сейчас извольте занять вашу постель, а я лягу в углу на стульях...</z>
+<z><o></o>— Marie, столько нет стульев, да и нечего постлать.</z>
+<z><o></o>— Ну так просто на полу. Ведь вам же самому придется спать на полу. Я хочу на полу, сейчас, сейчас!</z>
+<z><o></o>Она встала, хотела шагнуть, но вдруг как бы сильнейшая судорожная боль разом отняла у ней все силы и всю решимость, и она с громким стоном опять упала на постель. Шатов подбежал, но Marie, спрятав лицо в подушки, захватила его руку и изо всей силы стала сжимать и ломать ее в своей руке. Так продолжалось с минуту.</z>
+<z><o></o>— Marie, голубчик, если надо, тут есть доктор Френцель, мне знакомый, очень... Я бы сбегал к нему.</z>
+<z><o></o>— Вздор!</z>
+<z><o></o>— Как вздор? Скажи, Marie, что у тебя болит? А то бы можно припарки... на живот например... Это я и без доктора могу... А то горчичники.</z>
+<z><o></o>— Что ж это? — странно спросила она, подымая голову и испуганно смотря на него.</z>
+<z><o></o>— То есть что именно, Marie? — не понимал Шатов, — про что ты спрашиваешь? О боже, я совсем теряюсь, Marie, извини, что ничего не понимаю.</z>
+<z><o></o>— Эх, отстаньте, не ваше дело понимать. Да и было бы очень смешно... — горько усмехнулась она. — Говорите мне про что-нибудь. Ходите по комнате и говорите. Не стойте подле меня и не глядите на меня, об этом особенно прошу вас в пятисотый раз!</z>
+<z><o></o>Шатов стал ходить по комнате, смотря в пол и изо всех сил стараясь не взглянуть на нее.</z>
+<z><o></o>— Тут — не рассердись, Marie, умоляю тебя, — тут есть телятина, недалеко, и чай... Ты так мало давеча скушала...</z>
+<z><o></o>Она брезгливо и злобно замахала рукой. Шатов в отчаянии прикусил язык.</z>
+<z><o></o>— Слушайте, я намерена здесь открыть переплетную, на разумных началах ассоциации. Так как вы здесь живете, то как вы думаете: удастся или нет?</z>
+<z><o></o>— Эх, Marie, у нас и книг-то не читают, да и нет их совсем. Да и станет он книгу переплетать?</z>
+<z><o></o>— Кто он?</z>
+<z><o></o>— Здешний читатель и здешний житель вообще, Marie.</z>
+<z><o></o>— Ну так и говорите яснее, а то: <i>он,</i> а кто он — неизвестно. Грамматики не знаете.</z>
+<z><o></o>— Это в духе языка, Marie, — пробормотал Шатов.</z>
+<z><o></o>— Ах, подите вы с вашим духом, надоели. Почему здешний житель или читатель не станет переплетать?</z>
+<z><o></o>— Потому что читать книгу и ее переплетать — это целых два периода развития, и огромных. Сначала он помаленьку читать приучается, веками разумеется, но треплет книгу и валяет ее, считая за несерьезную вещь. Переплет же означает уже и уважение к книге, означает, что он не только читать полюбил, но и за дело признал. До этого периода еще вся Россия не дожила. Европа давно переплетает.</z>
+<z><o></o>— Это хоть и по-педантски, но по крайней мере неглупо сказано и напоминает мне три года назад; вы иногда были довольно остроумны три года назад.</z>
+<z><o></o>Она это высказала так же брезгливо, как и все прежние капризные свои фразы.</z>
+<z><o></o>— Marie, Marie, — в умилении обратился к ней Шатов, — о Marie! Если б ты знала, сколько в эти три года прошло и проехало! Я слышал потом, что ты будто бы презирала меня за перемену убеждений. Кого ж я бросил? Врагов живой жизни; устарелых либералишек, боящихся собственной независимости; лакеев мысли, врагов личности и свободы, дряхлых проповедников мертвечины и тухлятины! Что у них: старчество, золотая средина, самая мещанская, подлая бездарность, завистливое равенство, равенство без собственного достоинства, равенство, как сознает его лакей или как сознавал француз девяносто третьего года... А главное, везде мерзавцы, мерзавцы и мерзавцы!</z>
+<z><o></o>— Да, мерзавцев много, — отрывисто и болезненно проговорила она. Она лежала протянувшись, недвижимо и как бы боясь пошевелиться, откинувшись головой на подушку, несколько вбок, смотря в потолок утомленным, но горячим взглядом. Лицо ее было бледно, губы высохли и запеклись.</z>
+<z><o></o>— Ты сознаешь, Marie, сознаешь! — воскликнул Шатов. Она хотела было сделать отрицательный знак головой, и вдруг с нею сделалась прежняя судорога. Опять она спрятала лицо в подушку и опять изо всей силы целую минуту сжимала до боли руку подбежавшего и обезумевшего от ужаса Шатова.</z>
+<z><o></o>— Marie, Marie! Но ведь это, может быть, очень серьезно, Marie!</z>
+<z><o></o>— Молчите... Я не хочу, не хочу, — восклицала она почти в ярости, повертываясь опять вверх лицом, — не смейте глядеть на меня, с вашим состраданием! Ходите по комнате, говорите что-нибудь, говорите...</z>
+<z><o></o>Шатов как потерянный начал было снова что-то бормотать.</z>
+<z><o></o>— Вы чем здесь занимаетесь? — спросила она, с брезгливым нетерпением перебивая его.</z>
+<z><o></o>— На контору к купцу одному хожу. Я, Marie, если б особенно захотел, мог бы и здесь хорошие деньги доставать.</z>
+<z><o></o>— Тем для вас лучше...</z>
+<z><o></o>— Ах, не подумай чего, Marie, я так сказал...</z>
+<z><o></o>— А еще что делаете? Что проповедуете? Ведь вы не можете не проповедовать; таков характер!</z>
+<z><o></o>— Бога проповедую, Marie.</z>
+<z><o></o>— В которого сами не верите. Этой идеи я никогда не могла понять.</z>
+<z><o></o>— Оставим, Marie, это потом.</z>
+<z><o></o>— Что такое была здесь эта Марья Тимофеевна?</z>
+<z><o></o>— Это тоже мы потом, Marie.</z>
+<z><o></o>— Не смейте мне делать такие замечания! Правда ли, что смерть эту можно отнести к злодейству... этих людей?</z>
+<z><o></o>— Непременно так, — проскрежетал Шатов.</z>
+<z><o></o>Marie вдруг подняла голову и болезненно прокричала:</z>
+<z><o></o>— Не смейте мне больше говорить об этом, никогда не смейте, никогда не смейте!</z>
+<z><o></o>И она опять упала на постель в припадке той же судорожной боли; это уже в третий раз, но на этот раз стоны стали громче, обратились в крики.</z>
+<z><o></o>— О, несносный человек! О, нестерпимый человек! — металась она, уже не жалея себя, отталкивая стоявшего над нею Шатова.</z>
+<z><o></o>— Marie, я буду что хочешь... я буду ходить, говорить...</z>
+<z><o></o>— Да неужто вы не видите, что началось?</z>
+<z><o></o>— Что началось, Marie?</z>
+<z><o></o>— А почем я знаю? Я разве тут знаю что-нибудь... О, проклятие! О, будь проклято всё заране!</z>
+<z><o></o>— Marie, если б ты сказала, что́ начинается... а то я... что я пойму, если так?</z>
+<z><o></o>— Вы отвлеченный, бесполезный болтун. О, будь проклято всё на свете!</z>
+<z><o></o>— Marie! Marie!</z>
+<z><o></o>Он серьезно подумал, что с ней начинается помешательство.</z>
+<z><o></o>— Да неужели вы, наконец, не видите, что я мучаюсь родами, — приподнялась она, смотря на него со страшною, болезненною, исказившею всё лицо ее злобой. — Будь он заране проклят, этот ребенок!</z>
+<z><o></o>— Marie, — воскликнул Шатов, догадавшись наконец, в чем дело, — Marie... Но что же ты не сказала заране? — спохватился он вдруг и с энергическою решимостью схватил свою фуражку.</z>
+<z><o></o>— А я почем знала, входя сюда? Неужто пришла бы к вам? Мне сказали, еще через десять дней! Куда же вы, куда же вы, не смейте!</z>
+<z><o></o>— За повивальною бабкой! я продам револьвер; прежде всего теперь деньги!</z>
+<z><o></o>— Не смейте ничего, не смейте повивальную бабку, просто бабу, старуху, у меня в портмоне восемь гривен... Родят же деревенские бабы без бабок... А околею, так тем лучше...</z>
+<z><o></o>— И бабка будет, и старуха будет. Только как я, как я оставлю тебя одну, Marie!</z>
+<z><o></o>Но, сообразив, что лучше теперь оставить ее одну, несмотря на всё ее исступление, чем потом оставить без помощи, он, не слушая ее стонов, ни гневливых восклицаний и надеясь на свои ноги, пустился сломя голову с лестницы.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">I</div><span class="tocb ho" id="toc" title="Оглавление">94/108</span><div class="navlnktxt">III</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000482394 -->

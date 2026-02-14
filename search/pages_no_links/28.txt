@@ -1,0 +1,266 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава четвертая. Хромоножка</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть первая</div>
+<h3><i>Глава четвертая</i><br/>
+Хромоножка</h3>
+<h4>I</h4>
+<z><o></o>Шатов не заупрямился и, по записке моей, явился в полдень к Лизавете Николаевне. Мы вошли почти вместе: я тоже явился сделать мой первый визит. Они все, то есть Лиза, мама́ и Маврикий Николаевич, сидели в большой зале и спорили. Мама́ требовала, чтобы Лиза сыграла ей какой-то вальс на фортепиано, и когда та начала требуемый вальс, то стала уверять, что вальс не тот. Маврикий Николаевич, по простоте своей, заступился за Лизу и стал уверять, что вальс тот самый; старуха со злости расплакалась. Она была больна и с трудом даже ходила. У ней распухли ноги, и вот уже несколько дней только и делала, что капризничала и ко всем придиралась, несмотря на то что Лизу всегда побаивались. Приходу нашему обрадовались. Лиза покраснела от удовольствия и, проговорив мне merci, конечно за Шатова, пошла к нему, любопытно его рассматривая.</z>
+<z><o></o>Шатов неуклюже остановился в дверях. Поблагодарив его за приход, она подвела его к мама́.</z>
+<z><o></o>— Это господин Шатов, про которого я вам говорила, а это вот господин Г—в, большой друг мне и Степану Трофимовичу. Маврикий Николаевич вчера тоже познакомился.</z>
+<z><o></o>— А который профессор?</z>
+<z><o></o>— А профессора вовсе и нет, мама́.</z>
+<z><o></o>— Нет, есть, ты сама говорила, что будет профессор; верно, вот этот, — она брезгливо указала на Шатова.</z>
+<z><o></o>— Вовсе никогда я вам не говорила, что будет профессор. Господин Г—в служит, а господин Шатов — бывший студент.</z>
+<z><o></o>— Студент, профессор, всё одно из университета. Тебе только бы спорить. А швейцарский был в усах и с бородкой.</z>
+<z><o></o>— Это мама́ сына Степана Трофимовича всё профессором называет, — сказала Лиза и увела Шатова на другой конец залы на диван.</z>
+<z><o></o>— Когда у ней ноги распухнут, она всегда такая, вы понимаете, больная, — шепнула она Шатову, продолжая рассматривать его всё с тем же чрезвычайным любопытством и особенно его вихор на голове.</z>
+<z><o></o>— Вы военный? — обратилась ко мне старуха, с которою меня так безжалостно бросила Лиза.</z>
+<z><o></o>— Нет-с, я служу...</z>
+<z><o></o>— Господин Г—в большой друг Степана Трофимовича, — отозвалась тотчас же Лиза.</z>
+<z><o></o>— Служите у Степана Трофимовича? Да ведь и он профессор?</z>
+<z><o></o>— Ах, мама́, вам, верно, и ночью снятся профессора, — с досадой крикнула Лиза.</z>
+<z><o></o>— Слишком довольно и наяву. А ты вечно чтобы матери противоречить. Вы здесь, когда Николай Всеволодович приезжал, были, четыре года назад?</z>
+<z><o></o>Я отвечал, что был.</z>
+<z><o></o>— А англичанин тут был какой-нибудь вместе с вами?</z>
+<z><o></o>— Нет, не был.</z>
+<z><o></o>Лиза засмеялась.</z>
+<z><o></o>— А, видишь, что и не было совсем англичанина, стало быть, враки. И Варвара Петровна и Степан Трофимович оба врут. Да и все врут.</z>
+<z><o></o>— Это тетя и вчера Степан Трофимович нашли будто бы сходство у Николая Всеволодовича с принцем Гарри, у Шекспира в «Генрихе IV», и мама́ на это говорит, что не было англичанина, — объяснила нам Лиза.</z>
+<z><o></o>— Коли Гарри не было, так и англичанина не было. Один Николай Всеволодович куролесил.</z>
+<z><o></o>— Уверяю вас, что это мама́ нарочно, — нашла нужным объяснить Шатову Лиза, — она очень хорошо про Шекспира знает. Я ей сама первый акт «Отелло» читала; но она теперь очень страдает. Мама́, слышите, двенадцать часов бьет, вам лекарство принимать пора.</z>
+<z><o></o>— Доктор приехал, — появилась в дверях горничная.</z>
+<z><o></o>Старуха привстала и начала звать собачку: «Земирка, Земирка, пойдем хоть ты со мной».</z>
+<z><o></o>Скверная, старая, маленькая собачонка Земирка не слушалась и залезла под диван, где сидела Лиза.</z>
+<z><o></o>— Не хочешь? Так и я тебя не хочу. Прощайте, батюшка, не знаю вашего имени-отчества, — обратилась она ко мне.</z>
+<z><o></o>— Антон Лаврентьевич...</z>
+<z><o></o>— Ну всё равно, у меня в одно ухо вошло, в другое вышло. Не провожайте меня, Маврикий Николаевич, я только Земирку звала. Слава богу, еще и сама хожу, а завтра гулять поеду.</z>
+<z><o></o>Она сердито вышла из залы.</z>
+<z><o></o>— Антон Лаврентьевич, вы тем временем поговорите с Маврикием Николаевичем, уверяю вас, что вы оба выиграете, если поближе познакомитесь, — сказала Лиза и дружески усмехнулась Маврикию Николаевичу, который так весь и просиял от ее взгляда. Я, нечего делать, остался говорить с Маврикием Николаевичем.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">X</div><span class="tocb ho" id="toc" title="Оглавление">28/108</span><div class="navlnktxt">II</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000469426 -->

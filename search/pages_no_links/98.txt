@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть третья. Глава пятая. VI</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть третья. Глава пятая</div>
+<h4>VI</h4>
+<z><o></o>Ночь проходила. Шатова посылали, бранили, призывали. Marie дошла до последней степени страха за свою жизнь. Она кричала, что хочет жить «непременно, непременно!» и боится умереть. «Не надо, не надо!» — повторяла она. Если бы не Арина Прохоровна, то было бы очень плохо. Мало-помалу она совершенно овладела пациенткой. Та стала слушаться каждого слова ее, каждого окрика, как ребенок. Арина Прохоровна брала строгостью, а не лаской, зато работала мастерски. Стало рассветать. Арина Прохоровна вдруг выдумала, что Шатов сейчас выбегал на лестницу и богу молился, и стала смеяться. Marie тоже засмеялась злобно, язвительно, точно ей легче было от этого смеха. Наконец Шатова выгнали совсем. Наступило сырое, холодное утро. Он приник лицом к стене, в углу, точь-в-точь как накануне, когда входил Эркель. Он дрожал как лист, боялся думать, но ум его цеплялся мыслию за всё представлявшееся, как бывает во сне. Мечты беспрерывно увлекали его и беспрерывно обрывались, как гнилые нитки. Из комнаты раздались наконец уже не стоны, а ужасные, чисто животные крики, невыносимые, невозможные. Он хотел было заткнуть уши, но не мог и упал на колена, бессознательно повторяя: «Marie, Marie!». И вот наконец раздался крик, новый крик, от которого Шатов вздрогнул и вскочил с колен, крик младенца, слабый, надтреснутый. Он перекрестился и бросился в комнату. В руках у Арины Прохоровны кричало и копошилось крошечными ручками и ножками маленькое, красное, сморщенное существо, беспомощное до ужаса и зависящее, как пылинка, от первого дуновения ветра, но кричавшее и заявлявшее о себе, как будто тоже имело какое-то самое полное право на жизнь... Marie лежала как без чувств, но через минуту открыла глаза и странно, странно поглядела на Шатова: совсем какой-то новый был этот взгляд, какой именно, он еще понять был не в силах, но никогда прежде он не знал и не помнил у ней такого взгляда.</z>
+<z><o></o>— Мальчик? Мальчик? — болезненным голосом спросила она Арину Прохоровну.</z>
+<z><o></o>— Мальчишка! — крикнула та в ответ, увертывая ребенка.</z>
+<z><o></o>На мгновение, когда она уже увертела его и собиралась положить поперек кровати, между двумя подушками, она передала его подержать Шатову. Marie, как-то исподтишка и как будто боясь Арины Прохоровны, кивнула ему. Тот сейчас понял и поднес показать ей младенца.</z>
+<z><o></o>— Какой... хорошенький... — слабо прошептала она с улыбкой.</z>
+<z><o></o>— Фу, как он смотрит! — весело рассмеялась торжествующая Арина Прохоровна, заглянув в лицо Шатову. — Экое ведь у него лицо!</z>
+<z><o></o>— Веселитесь, Арина Прохоровна... Это великая радость... — с идиотски блаженным видом пролепетал Шатов, просиявший после двух слов Marie о ребенке.</z>
+<z><o></o>— Какая такая у вас там великая радость? — веселилась Арина Прохоровна, суетясь, прибираясь и работая как каторжная.</z>
+<z><o></o>— Тайна появления нового существа, великая тайна и необъяснимая, Арина Прохоровна, и как жаль, что вы этого не понимаете!</z>
+<z><o></o>Шатов бормотал бессвязно, чадно и восторженно. Как будто что-то шаталось в его голове и само собою, без воли его, выливалось из души.</z>
+<z><o></o>— Было двое, и вдруг третий человек, новый дух, цельный, законченный, как не бывает от рук человеческих; новая мысль и новая любовь, даже страшно... И нет ничего выше на свете!</z>
+<z><o></o>— Эк напорол! Просто дальнейшее развитие организма, и ничего тут нет, никакой тайны, — искренно и весело хохотала Арина Прохоровна. — Этак всякая муха тайна. Но вот что: лишним людям не надо бы родиться. Сначала перекуйте так всё, чтоб они не были лишние, а потом и родите их. А то вот его в приют послезавтра тащить... Впрочем, это так и надо.</z>
+<z><o></o>— Никогда он не пойдет от меня в приют! — уставившись в пол, твердо произнес Шатов.</z>
+<z><o></o>— Усыновляете?</z>
+<z><o></o>— Он и есть мой сын.</z>
+<z><o></o>— Конечно, он Шатов, по закону Шатов, и нечего вам выставляться благодетелем-то рода человеческого. Не могут без фраз. Ну, ну, хорошо, только вот что, господа, — кончила она наконец прибираться, — мне идти пора. Я еще поутру приду и вечером приду, если надо, а теперь, так как всё слишком благополучно сошло, то надо и к другим сбегать, давно ожидают. Там у вас, Шатов, старуха где-то сидит; старуха-то старухой, но не оставляйте и вы, муженек; посидите подле, авось пригодитесь; Марья-то Игнатьевна, кажется, вас не прогонит... ну, ну, ведь я смеюсь...</z>
+<z><o></o>У ворот, куда проводил ее Шатов, она прибавила уже ему одному:</z>
+<z><o></o>— Насмешили вы меня на всю жизнь; денег с вас не возьму; во сне рассмеюсь. Смешнее, как вы в эту ночь, ничего не видывала.</z>
+<z><o></o>Она ушла совершенно довольная. По виду Шатова и по разговору его оказалось ясно как день, что этот человек «в отцы собирается и тряпка последней руки». Она нарочно забежала домой, хотя прямее и ближе было пройти к другой пациентке, чтобы сообщить об этом Виргинскому.</z>
+<z><o></o>— Marie, она велела тебе погодить спать некоторое время, хотя это, я вижу, ужасно трудно... — робко начал Шатов. — Я тут у окна посижу и постерегу тебя, а?</z>
+<z><o></o>И он уселся у окна сзади дивана, так что ей никак нельзя было его видеть. Но не прошло и минуты, она подозвала его и брезгливо попросила поправить подушку. Он стал оправлять. Она сердито смотрела в стену.</z>
+<z><o></o>— Не так, ох, не так... Что за руки!</z>
+<z><o></o>Шатов поправил еще.</z>
+<z><o></o>— Нагнитесь ко мне, — вдруг дико проговорила она, как можно стараясь не глядеть на него.</z>
+<z><o></o>Он вздрогнул, но нагнулся.</z>
+<z><o></o>— Еще... не так... ближе, — и вдруг левая рука ее стремительно обхватила его шею, и на лбу своем он почувствовал крепкий, влажный ее поцелуй.</z>
+<z><o></o>— Marie!</z>
+<z><o></o>Губы ее дрожали, она крепилась, но вдруг приподнялась и, засверкав глазами, проговорила:</z>
+<z><o></o>— Николай Ставрогин подлец!</z>
+<z><o></o>И бессильно, как подрезанная, упала лицом в подушку, истерически зарыдав и крепко сжимая в своей руке руку Шатова.</z>
+<z><o></o>С этой минуты она уже не отпускала его более от себя, она потребовала, чтоб он сел у ее изголовья. Говорить она могла мало, но всё смотрела на него и улыбалась ему как блаженная. Она вдруг точно обратилась в какую-то дурочку. Всё как будто переродилось. Шатов то плакал, как маленький мальчик, то говорил бог знает что, дико, чадно, вдохновенно; целовал у ней руки; она слушала с упоением, может быть и не понимая, но ласково перебирала ослабевшею рукой его волосы, приглаживала их, любовалась ими. Он говорил ей о Кириллове, о том, как теперь они жить начнут, «вновь и навсегда», о существовании бога, о том, что все хороши... В восторге опять вынули ребеночка посмотреть.</z>
+<z><o></o>— Marie, — вскричал он, держа на руках ребенка, — кончено с старым бредом, с позором к мертвечиной! Давай трудиться и на новую дорогу втроем, да, да!.. Ах, да: как же мы его назовем, Marie?</z>
+<z><o></o>— Его? Как назовем? — переговорила она с удивлением, и вдруг в лице ее изобразилась страшная горесть.</z>
+<z><o></o>Она сплеснула руками, укоризненно посмотрела на Шатова и бросилась лицом в подушку.</z>
+<z><o></o>— Marie, что с тобой? — вскричал он с горестным испугом.</z>
+<z><o></o>— И вы могли, могли... О, неблагодарный!</z>
+<z><o></o>— Marie, прости, Marie... Я только спросил, как назвать. Я не знаю...</z>
+<z><o></o>— Иваном, Иваном, — подняла она разгоревшееся и омоченное слезами лицо, — неужели вы могли предположить, что каким-нибудь другим, <i>ужасным</i> именем?</z>
+<z><o></o>— Marie, успокойся, о, как ты расстроена!</z>
+<z><o></o>— Новая грубость; что вы расстройству приписываете? Бьюсь об заклад, что если б я сказала назвать его... тем ужасным именем, так вы бы тотчас же согласились, даже бы не заметили! О, неблагодарные, низкие, все, все!</z>
+<z><o></o>Через минуту, разумеется, помирились. Шатов уговорил ее заснуть. Она заснула, но, всё еще не выпуская его руки из своей, просыпалась часто, взглядывала на него, точно боясь, что он уйдет, и опять засыпала.</z>
+<z><o></o>Кириллов прислал старуху «поздравить» и, кроме того, горячего чаю, только что зажаренных котлет и бульону с белым хлебом для «Марьи Игнатьевны». Больная выпила бульон с жадностью, старуха перепеленала ребенка, Marie заставила и Шатова съесть котлет.</z>
+<z><o></o>Время проходило. Шатов в бессилии заснул и сам на стуле, головой на подушке Marie. Так застала их сдержавшая слово Арина Прохоровна, весело их разбудила, поговорила о чем надо с Marie, осмотрела ребенка и опять не велела Шатову отходить. Затем, сострив над «супругами» с некоторым оттенком презрения и высокомерия, ушла так же довольная, как и давеча.</z>
+<z><o></o>Было уже совсем темно, когда проснулся Шатов. Он поскорее зажег свечу и побежал за старухой; но едва ступил с лестницы, как чьи-то тихие, неспешные шаги поднимавшегося навстречу ему человека поразили его. Вошел Эркель.</z>
+<z><o></o>— Не входите! — прошептал Шатов и, стремительно схватив его за руку, потащил назад к воротам. — Ждите здесь, сейчас выйду, я совсем, совсем позабыл о вас! О, как вы о себе напомнили!</z>
+<z><o></o>Он так заспешил, что даже не забежал к Кириллову, а вызвал только старуху. Marie пришла в отчаяние и негодование, что он «мог только подумать оставить ее одну».</z>
+<z><o></o>— Но, — вскричал он восторженно, — это уже самый последний шаг! А там новый путь, и никогда, никогда не вспомянем о старом ужасе!</z>
+<z><o></o>Кое-как он уговорил ее и обещал вернуться ровно в девять часов; крепко поцеловал ее, поцеловал ребенка и быстро сбежал к Эркелю.</z>
+<z><o></o>Оба отправлялись в ставрогинский парк в Скворешниках, где года полтора назад, в уединенном месте, на самом краю парка, там, где уже начинался сосновый лес, была зарыта им доверенная ему типография. Место было дикое и пустынное, совсем незаметное, от скворешниковского дома довольно отдаленное. От дома Филиппова приходилось идти версты три с половиной, может и четыре.</z>
+<z><o></o>— Неужели всё пешком? Я возьму извозчика.</z>
+<z><o></o>— Очень прошу вас не брать, — возразил Эркель, — они именно на этом настаивали. Извозчик тоже свидетель.</z>
+<z><o></o>— Ну... черт! Всё равно, только бы кончить, кончить!</z>
+<z><o></o>Пошли очень скоро.</z>
+<z><o></o>— Эркель, мальчик вы маленький! — вскричал Шатов, — бывали вы когда-нибудь счастливы?</z>
+<z><o></o>— А вы, кажется, очень теперь счастливы, — с любопытством заметил Эркель.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">V</div><span class="tocb ho" id="toc" title="Оглавление">98/108</span><div class="navlnktxt">Глава шестая. Многотрудная ночь</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000500659 -->

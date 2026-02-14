@@ -1,0 +1,311 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть третья. Глава пятая. III</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть третья. Глава пятая</div>
+<h4>III</h4>
+<z><o></o>Прежде всего к Кириллову. Было уже около часу пополуночи. Кириллов стоял посреди комнаты.</z>
+<z><o></o>— Кириллов, жена родит!</z>
+<z><o></o>— То есть как?</z>
+<z><o></o>— Родит, ребенка родит!</z>
+<z><o></o>— Вы... не ошибаетесь?</z>
+<z><o></o>— О нет, нет, у ней судороги!.. Надо бабу, старуху какую-нибудь, непременно сейчас... Можно теперь достать? У вас было много старух...</z>
+<z><o></o>— Очень жаль, что я родить не умею, — задумчиво отвечал Кириллов, — то есть не я родить не умею, а сделать так, чтобы родить, не умею... или... Нет, это я не умею сказать.</z>
+<z><o></o>— То есть вы не можете сами помочь в родах; но я не про то; старуху, старуху, я прошу бабу, сиделку, служанку!</z>
+<z><o></o>— Старуха будет, только, может быть, не сейчас. Если хотите, я вместо...</z>
+<z><o></o>— О, невозможно; я теперь к Виргинской, к бабке.</z>
+<z><o></o>— Мерзавка!</z>
+<z><o></o>— О да, Кириллов, да, но она лучше всех! О да, всё это будет без благоговения, без радости, брезгливо, с бранью, с богохульством — при такой великой тайне, появлении нового существа!.. О, она уж теперь проклинает его!..</z>
+<z><o></o>— Если хотите, я...</z>
+<z><o></o>— Нет, нет, а пока я буду бегать (о, я притащу Виргинскую!), вы иногда подходите к моей лестнице и тихонько прислушивайтесь, но не смейте входить, вы ее испугаете, ни за что не входите, вы только слушайте... на всякий ужасный случай. Ну, если что крайнее случится, тогда войдите.</z>
+<z><o></o>— Понимаю. Денег еще рубль. Вот. Я хотел завтра курицу, теперь не хочу. Бегите скорей, бегите изо всей силы. Самовар всю ночь.</z>
+<z><o></o>Кириллов ничего не знал о намерениях насчет Шатова, да и прежде никогда не знал о всей степени опасности, ему угрожающей. Знал только, что у него какие-то старые счеты с «теми людьми», и хотя сам был в это дело отчасти замешан сообщенными ему из-за границы инструкциями (впрочем, весьма поверхностными, ибо близко он ни в чем не участвовал), но в последнее время он всё бросил, все поручения, совершенно устранил себя от всяких дел, прежде же всего от «общего дела», и предался жизни созерцательной. Петр Верховенский в заседании хотя и позвал Липутина к Кириллову, чтоб удостовериться, что тот примет в данный момент «дело Шатова» на себя, но, однако, в объяснениях с Кирилловым ни слова не сказал про Шатова, даже не намекнул, — вероятно считая неполитичным, а Кириллова даже и неблагонадежным, и оставив до завтра, когда уже всё будет сделано, а Кириллову, стало быть, будет уже «всё равно»; по крайней мере, так рассуждал о Кириллове Петр Степанович. Липутин тоже очень заметил, что о Шатове, несмотря на обещание, ни слова не было упомянуто, но Липутин был слишком взволнован, чтобы протестовать.</z>
+<z><o></o>Как вихрь бежал Шатов в Муравьиную улицу, проклиная расстояние и не видя ему конца.</z>
+<z><o></o>Надо было долго стучать у Виргинского: все давно уже спали. Но Шатов изо всей силы и безо всякой церемонии заколотил в ставню. Цепная собака на дворе рвалась и заливалась злобным лаем. Собаки всей улицы подхватили; поднялся собачий гам.</z>
+<z><o></o>— Что вы стучите и чего вам угодно? — раздался наконец у окна мягкий и несоответственный «оскорблению» голос самого Виргинского. Ставня приотворилась, открылась и форточка.</z>
+<z><o></o>— Кто там, какой подлец? — злобно провизжал уже совершенно соответственный оскорблению женский голос старой девы, родственницы Виргинского.</z>
+<z><o></o>— Я, Шатов, ко мне воротилась жена и теперь сейчас родит...</z>
+<z><o></o>— Ну пусть и родит, убирайтесь!</z>
+<z><o></o>— Я за Ариной Прохоровной, я не уйду без Арины Прохоровны!</z>
+<z><o></o>— Не может она ко всякому ходить. По ночам особая практика... Убирайтесь к Макшеевой и не смейте шуметь! — трещал обозленный женский голос. Слышно было, как Виргинский останавливал; но старая дева его отталкивала и не уступала.</z>
+<z><o></o>— Я не уйду! — прокричал опять Шатов.</z>
+<z><o></o>— Подождите, подождите же! — прикрикнул наконец Виргинский, осилив деву. — Прошу вас, Шатов, подождать пять минут, я разбужу Арину Прохоровну, и, пожалуйста, не стучите и не кричите... О, как всё это ужасно!</z>
+<z><o></o>Через пять бесконечных минут явилась Арина Прохоровна.</z>
+<z><o></o>— К вам жена приехала? — послышался из форточки ее голос и, к удивлению Шатова, вовсе не злой, а так только по-обыкновенному повелительный; но Арина Прохоровна иначе и не могла говорить.</z>
+<z><o></o>— Да, жена, и родит.</z>
+<z><o></o>— Марья Игнатьевна?</z>
+<z><o></o>— Да, Марья Игнатьевна. Разумеется, Марья Игнатьевна!</z>
+<z><o></o>Наступило молчание. Шатов ждал. В доме перешептывались.</z>
+<z><o></o>— Она давно приехала? — спросила опять madame Виргинская.</z>
+<z><o></o>— Сегодня вечером, в восемь часов. Пожалуйста, поскорей.</z>
+<z><o></o>Опять пошептались, опять как будто посоветовались.</z>
+<z><o></o>— Слушайте, вы не ошибаетесь? Она сама вас послала за мной?</z>
+<z><o></o>— Нет, она не посылала за вами, она хочет бабу, простую бабу, чтобы меня не обременять расходами, но не беспокойтесь, я заплачу.</z>
+<z><o></o>— Хорошо, приду, заплатите или нет. Я всегда ценила независимые чувства Марьи Игнатьевны, хотя она, может быть, не помнит меня. Есть у вас самые необходимые вещи?</z>
+<z><o></o>— Ничего нет, но всё будет, будет, будет...</z>
+<z><o></o>«Есть же и в этих людях великодушие! — думал Шатов, направляясь к Лямшину. — Убеждения и человек — это, кажется, две вещи во многом различные. Я, может быть, много виноват пред ними!.. Все виноваты, все виноваты и... если бы в этом все убедились!..».</z>
+<z><o></o>У Лямшина пришлось стучать недолго; к удивлению, он мигом отворил форточку, вскочив с постели босой и в белье, рискуя насморком; а он очень был мнителен и постоянно заботился о своем здоровье. Но была особая причина такой чуткости и поспешности: Лямшин трепетал весь вечер и до сих пор еще не мог заснуть от волнения вследствие заседания у <i>наших;</i> ему всё мерещилось посещение некоторых незваных и уже совсем нежеланных гостей. Известие о доносе Шатова больше всего его мучило... И вот вдруг, как нарочно, так ужасно громко застучали в окошко!..</z>
+<z><o></o>Он до того струсил, увидав Шатова, что тотчас же захлопнул форточку и убежал на кровать. Шатов стал неистово стучать и кричать.</z>
+<z><o></o>— Как вы смеете так стучать среди ночи? — грозно, но замирая от страху, крикнул Лямшин, по крайней мере минуты через две решившись отворить снова форточку и убедившись, наконец, что Шатов пришел один.</z>
+<z><o></o>— Вот вам револьвер; берите обратно, давайте пятнадцать рублей.</z>
+<z><o></o>— Что это, вы пьяны? Это разбой; я только простужусь. Постойте, я сейчас плед накину.</z>
+<z><o></o>— Сейчас давайте пятнадцать рублей. Если не дадите, буду стучать и кричать до зари; я у вас раму выбью.</z>
+<z><o></o>— А я закричу караул, и вас в каталажку возьмут.</z>
+<z><o></o>— А я немой, что ли? Я не закричу караул? Кому бояться караула, вам или мне?</z>
+<z><o></o>— И вы можете питать такие подлые убеждения... Я знаю, на что вы намекаете... Стойте, стойте, ради бога, не стучите! Помилуйте, у кого деньги ночью? Ну зачем вам деньги, если вы не пьяны?</z>
+<z><o></o>— Ко мне жена воротилась. Я вам десять рублей скинул, я ни разу не стрелял; берите револьвер, берите сию минуту.</z>
+<z><o></o>Лямшин машинально протянул из форточки руку и принял револьвер; подождал и вдруг, быстро выскочив головой из форточки, пролепетал, как бы не помня себя и с ознобом в спине:</z>
+<z><o></o>— Вы врете, к вам совсем не пришла жена. Это... это вы просто хотите куда-нибудь убежать.</z>
+<z><o></o>— Дурак вы, куда мне бежать? Это ваш Петр Верховенский пусть бежит, а не я. Я был сейчас у бабки Виргинской, и она тотчас согласилась ко мне прийти. Справьтесь. Жена мучается; нужны деньги; давайте денег!</z>
+<z><o></o>Целый фейерверк идей блеснул в изворотливом уме Лямшина. Всё вдруг приняло другой оборот, но всё еще страх не давал рассудить.</z>
+<z><o></o>— Да как же... ведь вы не живете с женой?</z>
+<z><o></o>— А я вам голову пробью за такие вопросы.</z>
+<z><o></o>— Ах, бог мой, простите, понимаю, меня только ошеломило... Но я понимаю, понимаю. Но... но — неужели Арина Прохоровна придет? Вы сказали сейчас, что она пошла? Знаете, ведь это неправда. Видите, видите, видите, как вы говорите неправду на каждом шагу.</z>
+<z><o></o>— Она, наверно, теперь у жены сидит, не задерживайте, я не виноват, что вы глупы.</z>
+<z><o></o>— Неправда, я не глуп. Извините меня, никак не могу...</z>
+<z><o></o>И он, совсем уже потерявшись, в третий раз стал опять запирать, но Шатов так завопил, что он мигом опять выставился.</z>
+<z><o></o>— Но это совершенное посягновение на личность! Чего вы от меня требуете, ну чего, чего? — формулируйте! И заметьте, заметьте себе, среди такой ночи!</z>
+<z><o></o>— Пятнадцать рублей требую, баранья голова!</z>
+<z><o></o>— Но я, может, вовсе не хочу брать назад револьвер. Вы не имеете права. Вы купили вещь — и всё кончено, и не имеете права. Я такую сумму ночью ни за что не могу. Где я достану такую сумму?</z>
+<z><o></o>— У тебя всегда деньги есть; я тебе сбавил десять рублей, но ты известный жиденок.</z>
+<z><o></o>— Приходите послезавтра, — слышите, послезавтра утром, ровно в двенадцать часов, и я всё отдам, всё, не правда ли?</z>
+<z><o></o>Шатов в третий раз неистово застучал в раму:</z>
+<z><o></o>— Давай десять рублей, а завтра чем свет утром пять.</z>
+<z><o></o>— Нет, послезавтра утром пять, а завтра, ей-богу, не будет. Лучше и не приходите, лучше не приходите.</z>
+<z><o></o>— Давай десять; о, подлец!</z>
+<z><o></o>— За что же вы так ругаетесь? Подождите, надобно засветить; вы вот стекло выбили... Кто по ночам так ругается? Вот! — протянул он из окна бумажку.</z>
+<z><o></o>Шатов схватил — бумажка была пятирублевая.</z>
+<z><o></o>— Ей-богу, не могу, хоть зарежьте, не могу, послезавтра всё могу, а теперь ничего не могу.</z>
+<z><o></o>— Не уйду! — заревел Шатов.</z>
+<z><o></o>— Ну вот берите, вот еще, видите еще, а больше не дам. Ну хоть орите во всё горло, не дам, ну хоть что бы там ни было, не дам; не дам и не дам!</z>
+<z><o></o>Он был в исступлении, в отчаянии, в поту. Две кредитки, которые он еще выдал, были рублевые. Всего скопилось у Шатова семь рублей.</z>
+<z><o></o>— Ну черт с тобой, завтра приду. Изобью тебя, Лямшин, если не приготовишь восьми рублей.</z>
+<z><o></o>«А дома-то меня не будет, дурак!» — быстро подумал про себя Лямшин.</z>
+<z><o></o>— Стойте, стойте! — неистово закричал он вслед Шатову, который уже побежал. — Стойте, воротитесь. Скажите, пожалуйста, это правду вы сказали, что к вам воротилась жена?</z>
+<z><o></o>— Дурак! — плюнул Шатов и побежал что было мочи домой.</z>
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">II</div><span class="tocb ho" id="toc" title="Оглавление">95/108</span><div class="navlnktxt">IV</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.00054466 -->

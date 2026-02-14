@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава третья. VII</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть первая. Глава третья</div>
+<h4>VII</h4>
+<z><o></o>Степан Трофимович постоял с минуту в раздумье, как-то не глядя посмотрел на меня, взял свою шляпу, палку и тихо пошел из комнаты. Я опять за ним, как и давеча. Выходя из ворот, он, заметив, что я провожаю его, сказал:</z>
+<z><o></o>— Ах да, вы можете служить свидетелем... de l'accident. Vous m'accompagnerez, n'est-ce pas?<fn><sup> <a class="fnr ho" id="fnr1" name="fns1">1</sup></fn></z>
+<z><o></o>— Степан Трофимович, неужели вы опять туда? Подумайте, что может выйти?</z>
+<z><o></o>С жалкою и потерянною улыбкой, — улыбкой стыда и совершенного отчаяния, и в то же время какого-то странного восторга, прошептал он мне, на миг приостанавливаясь:</z>
+<z><o></o>— Не могу же я жениться на «чужих грехах»!</z>
+<z><o></o>Я только и ждал этого слова. Наконец-то это заветное, скрываемое от меня словцо было произнесено после целой недели виляний и ужимок. Я решительно вышел из себя:</z>
+<z><o></o>— И такая грязная, такая... низкая мысль могла появиться у вас, у Степана Верховенского, в вашем светлом уме, в вашем добром сердце и... еще до Липутина!</z>
+<z><o></o>Он посмотрел на меня, не ответил и пошел тою же дорогой. Я не хотел отставать. Я хотел свидетельствовать пред Варварой Петровной. Я бы простил ему, если б он поверил только Липутину, по бабьему малодушию своему, но теперь уже ясно было, что он сам всё выдумал еще гораздо прежде Липутина, а Липутин только теперь подтвердил его подозрения и подлил масла в огонь. Он не задумался заподозрить девушку с самого первого дня, еще не имея никаких оснований, даже липутинских. Деспотические действия Варвары Петровны он объяснил себе только отчаянным желанием ее поскорее замазать свадьбой с почтенным человеком дворянские грешки ее бесценного Nicolas! Мне непременно хотелось, чтоб он был наказан за это.</z>
+<z><o></o>— О! Dieu qui est si grand et si bon!<fn><sup> <a class="fnr ho" id="fnr2" name="fns2">2</sup></fn> О, кто меня успокоит! — воскликнул он, пройдя еще шагов сотню и вдруг остановившись.</z>
+<z><o></o>— Пойдемте сейчас домой, и я вам всё объясню! — вскричал я, силой поворачивая его к дому.</z>
+<z><o></o>— Это он! Степан Трофимович, это вы? Вы? — раздался свежий, резвый, юный голос, как какая-то музыка подле нас.</z>
+<z><o></o>Мы ничего не видали, а подле нас вдруг появилась наездница, Лизавета Николаевна, со своим всегдашним провожатым. Она остановила коня.</z>
+<z><o></o>— Идите, идите же скорее! — звала она громко и весело. — Я двенадцать лет не видала его и узнала, а он... Неужто не узнаете меня?</z>
+<z><o></o>Степан Трофимович схватил ее руку, протянутую к нему, и благоговейно поцеловал ее. Он глядел на нее как бы с молитвой и не мог выговорить слова.</z>
+<z><o></o>— Узнал и рад! Маврикий Николаевич, он в восторге, что видит меня! Что же вы не шли все две недели? Тетя убеждала, что вы больны и что вас нельзя потревожить; но ведь я знаю, тетя лжет. Я всё топала ногами и вас бранила, но я непременно, непременно хотела, чтобы вы сами первый пришли, потому и не посылала. Боже, да он нисколько не переменился! — рассматривала она его, наклоняясь с седла, — он до смешного не переменился! Ах, нет, есть морщинки, много морщинок у глаз и на щеках, и седые волосы есть, но глаза те же! А я переменилась? Переменилась? Но что же вы всё молчите?</z>
+<z><o></o>Мне вспомнился в это мгновение рассказ о том, что она была чуть не больна, когда ее увезли одиннадцати лет в Петербург; в болезни будто бы плакала и спрашивала Степана Трофимовича.</z>
+<z><o></o>— Вы... я... — лепетал он теперь обрывавшимся от радости голосом, — я сейчас вскричал: «Кто успокоит меня!» — и раздался ваш голос... Я считаю это чудом et je commence à croire.<fn><sup> <a class="fnr ho" id="fnr3" name="fns3">3</sup></fn></z>
+<z><o></o>— En Dieu? En Dieu, qui est là-haut et qui est si grand et si bon?<fn><sup> <a class="fnr ho" id="fnr4" name="fns4">4</sup></fn> Видите, я все ваши лекции наизусть помню. Маврикий Николаевич, какую он мне тогда веру преподавал en Dieu, qui est si grand et si bon! А помните ваши рассказы о том, как Колумб открывал Америку и как все закричали: «Земля, земля!». Няня Алена Фроловна говорит, что я после того ночью бредила и во сне кричала: «Земля, земля!». А помните, как вы мне историю принца Гамлета рассказывали? А помните, как вы мне описывали, как из Европы в Америку бедных эмигрантов перевозят? И всё-то неправда, я потом всё узнала, как перевозят, но как он мне хорошо лгал тогда, Маврикий Николаевич, почти лучше правды! Чего вы так смотрите на Маврикия Николаевича? Это самый лучший и самый верный человек на всем земном шаре, и вы его непременно должны полюбить, как меня! Il fait tout ce que je veux.<fn><sup> <a class="fnr ho" id="fnr5" name="fns5">5</sup></fn> Но, голубчик Степан Трофимович, стало быть, вы опять несчастны, коли среди улицы кричите о том, кто вас успокоит? Несчастны, ведь так? Так?</z>
+<z><o></o>— Теперь счастлив...</z>
+<z><o></o>— Тетя обижает? — продолжала она не слушая, — всё та же злая, несправедливая и вечно нам бесценная тетя! А помните, как вы бросались ко мне в объятия в саду, а я вас утешала и плакала, — да не бойтесь же Маврикия Николаевича; он про вас всё, всё знает, давно, вы можете плакать на его плече сколько угодно, и он сколько угодно будет стоять!.. Приподнимите шляпу, снимите совсем на минутку, протяните голову, станьте на цыпочки, я вас сейчас поцелую в лоб, как в последний раз поцеловала, когда мы прощались. Видите, та барышня из окна на нас любуется... Ну, ближе, ближе. Боже, как он поседел!</z>
+<z><o></o>И она, принагнувшись в седле, поцеловала его в лоб.</z>
+<z><o></o>— Ну, теперь к вам домой! Я знаю, где вы живете. Я сейчас, сию минуту буду у вас. Я вам, упрямцу, сделаю первый визит и потом на целый день вас к себе затащу. Ступайте же, приготовьтесь встречать меня.</z>
+<z><o></o>И она ускакала с своим кавалером. Мы воротились. Степан Трофимович сел на диван и заплакал.</z>
+<z><o></o>— Dieu! Dieu!<fn><sup> <a class="fnr ho" id="fnr6" name="fns6">6</sup></fn> — восклицал он, — enfin une minute de bonheur.<fn><sup> <a class="fnr ho" id="fnr7" name="fns7">7</sup></fn></z>
+<z><o></o>Не более как через десять минут она явилась по обещанию, в сопровождении своего Маврикия Николаевича.</z>
+<z><o></o>— Vous et le bonheur, vous arrivez en même temps!<fn><sup> <a class="fnr ho" id="fnr8" name="fns8">8</sup></fn> — поднялся он ей навстречу.</z>
+<z><o></o>— Вот вам букет; сейчас ездила к madame Шевалье, у ней всю зиму для именинниц букеты будут. Вот вам и Маврикий Николаевич, прошу познакомиться. Я хотела было пирог вместо букета, но Маврикий Николаевич уверяет, что это не в русском духе.</z>
+<z><o></o>Этот Маврикий Николаевич был артиллерийский капитан, лет тридцати трех, высокого росту господин, красивой и безукоризненно порядочной наружности, с внушительною и на первый взгляд даже строгою физиономией, несмотря на его удивительную и деликатнейшую доброту, о которой всякий получал понятие чуть не с первой минуты своего с ним знакомства. Он, впрочем, был молчалив, казался очень хладнокровен и на дружбу не напрашивался. Говорили потом у нас многие, что он недалек; это было не совсем справедливо.</z>
+<z><o></o>Я не стану описывать красоту Лизаветы Николаевны. Весь город уже кричал об ее красоте, хотя некоторые наши дамы и девицы с негодованием не соглашались с кричавшими. Были из них и такие, которые уже возненавидели Лизавету Николаевну, и, во-первых, за гордость: Дроздовы почти еще не начинали делать визитов, что оскорбляло, хотя виной задержки действительно было болезненное состояние Прасковьи Ивановны. Во-вторых, ненавидели ее за то, что она родственница губернаторши; в-третьих, за то, что она ежедневно прогуливается верхом. У нас до сих пор никогда еще не бывало амазонок; естественно, что появление Лизаветы Николаевны, прогуливавшейся верхом и еще не сделавшей визитов, должно было оскорблять общество. Впрочем, все уже знали, что она ездит верхом по приказанию докторов, и при этом едко говорили об ее болезненности. Она действительно была больна. Что выдавалось в ней с первого взгляда — это ее болезненное, нервное, беспрерывное беспокойство. Увы! бедняжка очень страдала, и всё объяснилось впоследствии. Теперь, вспоминая прошедшее, я уже не скажу, что она была красавица, какою казалась мне тогда. Может быть, она была даже и совсем нехороша собой. Высокая, тоненькая, но гибкая и сильная, она даже поражала неправильностью линий своего лица. Глаза ее были поставлены как-то по-калмыцки, криво; была бледна, скулиста, смугла и худа лицом; но было же нечто в этом лице побеждающее и привлекающее! Какое-то могущество сказывалось в горящем взгляде ее темных глаз; она являлась «как победительница и чтобы победить». Она казалась гордою, а иногда даже дерзкою; не знаю, удавалось ли ей быть доброю; но я знаю, что она ужасно хотела и мучилась тем, чтобы заставить себя быть несколько доброю. В этой натуре, конечно, было много прекрасных стремлений и самых справедливых начинаний; но всё в ней как бы вечно искало своего уровня и не находило его, всё было в хаосе, в волнении, в беспокойстве. Может быть, она уже со слишком строгими требованиями относилась к себе, никогда не находя в себе силы удовлетворить этим требованиям.</z>
+<z><o></o>Она села на диван и оглядывала комнату.</z>
+<z><o></o>— Почему мне в этакие минуты всегда становится грустно, разгадайте, ученый человек? Я всю жизнь думала, что и бог знает как буду рада, когда вас увижу, и всё припомню, и вот совсем как будто не рада, несмотря на то что вас люблю... Ах, боже, у него висит мой портрет! Дайте сюда, я его помню, помню!</z>
+<z><o></o>Превосходный миниатюрный портрет акварелью двенадцатилетней Лизы был выслан Дроздовыми Степану Трофимовичу из Петербурга еще лет девять назад. С тех пор он постоянно висел у него на стене.</z>
+<z><o></o>— Неужто я была таким хорошеньким ребенком? Неужто это мое лицо?</z>
+<z><o></o>Она встала и с портретом в руках посмотрелась в зеркало.</z>
+<z><o></o>— Поскорей возьмите! — воскликнула она, отдавая портрет. — Не вешайте теперь, после, не хочу и смотреть на него. — Она села опять на диван. — Одна жизнь прошла, началась другая, потом другая прошла — началась третья, и всё без конца. Все концы, точно как ножницами, обрезывает. Видите, какие я старые вещи рассказываю, а ведь сколько правды!</z>
+<z><o></o>Она, усмехнувшись, посмотрела на меня; уже несколько раз она на меня взглядывала, но Степан Трофимович в своем волнении и забыл, что обещал меня представить.</z>
+<z><o></o>— А зачем мой портрет висит у вас под кинжалами? И зачем у вас столько кинжалов и сабель?</z>
+<z><o></o>У него действительно висели на стене, не знаю для чего, два ятагана накрест, а над ними настоящая черкесская шашка. Спрашивая, она так прямо на меня посмотрела, что я хотел было что-то ответить, но осекся. Степан Трофимович догадался наконец и меня представил.</z>
+<z><o></o>— Знаю, знаю, — сказала она, — я очень рада. Мама́ об вас тоже много слышала. Познакомьтесь и с Маврикием Николаевичем, это прекрасный человек. Я об вас уже составила смешное понятие: ведь вы конфидент Степана Трофимовича?</z>
+<z><o></o>Я покраснел.</z>
+<z><o></o>— Ах, простите, пожалуйста, я совсем не то слово сказала; вовсе не смешное, а так... (Она покраснела и сконфузилась). — Впрочем, что же стыдиться того, что вы прекрасный человек? Ну, пора нам, Маврикий Николаевич! Степан Трофимович, через полчаса чтобы вы у нас были. Боже, сколько мы будем говорить! Теперь уж я ваш конфидент, и обо всем, <i>обо всем,</i> понимаете?</z>
+<z><o></o>Степан Трофимович тотчас же испугался.</z>
+<z><o></o>— О, Маврикий Николаевич всё знает, его не конфузьтесь!</z>
+<z><o></o>— Что же знает?</z>
+<z><o></o>— Да чего вы! — вскричала она в изумлении. — Ба, да ведь и правда, что они скрывают! Я верить не хотела. Дашу тоже скрывают. Тетя давеча меня не пустила к Даше, говорит, что у ней голова болит.</z>
+<z><o></o>— Но... но как вы узнали?</z>
+<z><o></o>— Ах, боже, так же, как и все. Эка мудрость!</z>
+<z><o></o>— Да разве все?..</z>
+<z><o></o>— Ну да как же? Мамаша, правда, сначала узнала через Алену Фроловну, мою няню; ей ваша Настасья прибежала сказать. Ведь вы говорили же Настасье? Она говорит, что вы ей сами говорили.</z>
+<z><o></o>— Я... я говорил однажды... — пролепетал Степан Трофимович, весь покраснев, — но... я лишь намекнул... j'étais si nerveux et malade et puis...<fn><sup> <a class="fnr ho" id="fnr9" name="fns9">9</sup></fn></z>
+<z><o></o>Она захохотала.</z>
+<z><o></o>— А конфидента под рукой не случилось, а Настасья подвернулась, — ну и довольно! А у той целый город кумушек! Ну да полноте, ведь это всё равно; ну пусть знают, даже лучше. Скорее же приходите, мы обедаем рано... Да, забыла, — уселась она опять, — слушайте, что такое Шатов?</z>
+<z><o></o>— Шатов? Это брат Дарьи Павловны...</z>
+<z><o></o>— Знаю, что брат, какой вы, право! — перебила она в нетерпении. — Я хочу знать, что он такое, какой человек?</z>
+<z><o></o>— C'est un pense-creux d'ici. C'est le meilleur et le plus irascible homme du monde...<fn><sup> <a class="fnr ho" id="fnr10" name="fns10">10</sup></fn></z>
+<z><o></o>— Я сама слышала, что он какой-то странный. Впрочем, не о том. Я слышала, что он знает три языка, и английский, и может литературною работой заниматься. В таком случае у меня для него много работы; мне нужен помощник, и чем скорее, тем лучше. Возьмет он работу или нет? Мне его рекомендовали...</z>
+<z><o></o>— О, непременно, et vous fairez un bienfait...<fn><sup> <a class="fnr ho" id="fnr11" name="fns11">11</sup></fn></z>
+<z><o></o>— Я вовсе не для bienfait, мне самой нужен помощник.</z>
+<z><o></o>— Я довольно хорошо знаю Шатова, — сказал я, — и если вы мне поручите передать ему, то я сию минуту схожу.</z>
+<z><o></o>— Передайте ему, чтоб он завтра утром пришел в двенадцать часов. Чудесно! Благодарю вас. Маврикий Николаевич, готовы?</z>
+<z><o></o>Они уехали. Я, разумеется, тотчас же побежал к Шатову.</z>
+<z><o></o>— Mon ami!<fn><sup> <a class="fnr ho" id="fnr12" name="fns12">12</sup></fn> — догнал меня на крыльце Степан Трофимович, — непременно будьте у меня в десять или в одиннадцать часов, когда я вернусь. О, я слишком, слишком виноват пред вами и... пред всеми, пред всеми.</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn>1</fnn></fnb>
+<z><o></o>происшествия. Вы меня будете сопровождать, не правда ли? <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt2"><fnb><fnn>2</fnn></fnb>
+<z><o></o>О боже, великий и милостивый! <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt3"><fnb><fnn>3</fnn></fnb>
+<z><o></o>и начинаю веровать <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt4"><fnb><fnn>4</fnn></fnb>
+<z><o></o>В бога? В бога всевышнего, который так велик и так милостив? <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt5"><fnb><fnn>5</fnn></fnb>
+<z><o></o>Он делает всё, что я хочу <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt6"><fnb><fnn>6</fnn></fnb>
+<z><o></o>Боже! Боже! <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt7"><fnb><fnn>7</fnn></fnb>
+<z><o></o>наконец одно мгновение счастья! <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt8"><fnb><fnn>8</fnn></fnb>
+<z><o></o>Вы и счастье, вы являетесь одновременно <i>(франц.)</i><div style="font-size:0;"></div></z></span><span id="fnt9"><fnb><fnn>9</fnn></fnb>
+<z><o></o>я был так взволнован и болен, и к тому же... <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt10"><fnb><fnn>10</fnn></fnb>
+<z><o></o>Это местный фантазер. Это лучший и самый раздражительный человек на свете... <i>(фран.).</i><div style="font-size:0;"></div></z></span><span id="fnt11"><fnb><fnn>11</fnn></fnb>
+<z><o></o>и вы совершите благодеяние <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt12"><fnb><fnn>12</fnn></fnb>
+<z><o></o>Друг мой! <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">VI</div><span class="tocb ho" id="toc" title="Оглавление">24/108</span><div class="navlnktxt">VIII</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.00053236 -->

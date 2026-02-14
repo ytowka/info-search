@@ -1,0 +1,271 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html lang="ru">
+<head>
+<title>Ф. М. Достоевский. Бесы. Текст произведения. Часть вторая. Глава первая. II</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы" name="Keywords"/>
+<meta content="Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова" name="Description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+
+
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+
+<script async="">
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=1544;</script>
+
+</head>
+<body>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div class="hdr" id="hdr">
+<div class="logo">
+<div class="logo1 rel">
+
+<div id="lmini"><svg height="1600" style="width:4.9em;height:2.5em" version="1.1" viewbox="800 15 1500 1600" width="1500"><use xlink:href="#logoMini"></use></svg></div>
+<div id="lmaxi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoBg"></use><use xlink:href="#logoMaxi"></use></svg></div>
+<div id="lmidi"><svg height="1600" style="width:12em;height:3.6em" version="1.1" viewbox="400 15 330 352" width="1500"><use xlink:href="#logoMidi"></use></svg></div>
+
+</div>
+</div>
+<div class="qson" id="qs1">
+<form action="/search.phtml" id="sf2" method="get"><div id="sf1" style="display:flex;align-items:stretch">
+<div><input class="tf" id="qi1" name="q" placeholder="Поиск: автор и/или название произведения" size="200" type="text" value=""/></div>
+<div class="sb" id="sb" style="">
+<input id="ss" type="submit" value="Найти"/><span id="smg"><svg id="sb1" version="1.1" viewbox="60 0 115 140">
+<use xlink:href="#mglass"></use></svg></span></div></div>
+</form>
+</div>
+<div class="m" id="sm">
+<svg version="1.1" viewbox="65 18 115 115" x="0px" y="0px"><use xlink:href="#mglass"></use></svg>
+</div>
+<div class="m">Авторы</div>
+<div class="spce"> </div>
+</div>
+<div class="l" id="ex">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+<div class="t hya" id="text">
+<div class="thdr" id="thdr">
+Ф. М. Достоевский. Бесы. Часть вторая. Глава первая</div>
+<h4>II</h4>
+<z><o></o>Петр Степанович забежал раза два и к родителю, и, к несчастию моему, оба раза в мое отсутствие. В первый раз посетил его в среду, то есть на четвертый лишь день после той первой встречи, да и то по делу. Кстати, расчет по имению окончился у них как-то неслышно и невидно. Варвара Петровна взяла всё на себя и всё выплатила, разумеется приобретя землицу, а Степана Трофимовича только уведомила о том, что всё кончено, и уполномоченный Варвары Петровны, камердинер ее Алексей Егорович, поднес ему что-то подписать, что он и исполнил молча и с чрезвычайным достоинством. Замечу по поводу достоинства, что я почти не узнавал нашего прежнего старичка в эти дни. Он держал себя как никогда прежде, стал удивительно молчалив, даже не написал ни одного письма Варваре Петровне с самого воскресенья, что я счел бы чудом, а главное, стал спокоен. Он укрепился на какой-то окончательной и чрезвычайной идее, придававшей ему спокойствие, это было видно. Он нашел эту идею, сидел и чего-то ждал. Сначала, впрочем, был болен, особенно в понедельник; была холерина. Тоже и без вестей пробыть не мог во всё время; но лишь только я, оставляя факты, переходил к сути дела и высказывал какие-нибудь предположения, то он тотчас же начинал махать на меня руками, чтоб я перестал. Но оба свидания с сынком все-таки болезненно на него подействовали, хотя и не поколебали. В оба эти дня, после свиданий, он лежал на диване, обмотав голову платком, намоченным в уксусе; но в высшем смысле продолжал оставаться спокойным.</z>
+<z><o></o>Иногда, впрочем, он и не махал на меня руками. Иногда тоже казалось мне, что принятая таинственная решимость как бы оставляла его и что он начинал бороться с каким-то новым соблазнительным наплывом идей. Это было мгновениями, но я отмечаю их. Я подозревал, что ему очень бы хотелось опять заявить себя, выйдя из уединения, предложить борьбу, задать последнюю битву.</z>
+<z><o></o>— Cher, я бы их разгромил! — вырвалось у него в четверг вечером, после второго свидания с Петром Степановичем, когда он лежал, протянувшись на диване, с головой, обернутою полотенцем.</z>
+<z><o></o>До этой минуты он во весь день еще ни слова не сказал со мной.</z>
+<z><o></o>— «Fils, fils chéri»<fn><sup> <a class="fnr ho" id="fnr1" name="fns1">1</sup></fn> и так далее, я согласен, что все эти выражения вздор, кухарочный словарь, да и пусть их, я сам теперь вижу. Я его не кормил и не поил, я отослал его из Берлина в —скую губернию, грудного ребенка, по почте, ну и так далее, я согласен... «Ты, говорит, меня не поил и по почте выслал, да еще здесь ограбил». Но, несчастный, кричу ему, ведь болел же я за тебя сердцем всю мою жизнь, хотя и по почте! Il rit.<fn><sup> <a class="fnr ho" id="fnr2" name="fns2">2</sup></fn> Но я согласен, согласен... пусть по почте, — закончил он как в бреду.</z>
+<z><o></o>— Passons,<fn><sup> <a class="fnr ho" id="fnr3" name="fns3">3</sup></fn> — начал он опять через пять минут. — Я не понимаю Тургенева. У него Базаров это какое-то фиктивное лицо, не существующее вовсе; они же первые и отвергли его тогда, как ни на что не похожее. Этот Базаров это какая-то неясная смесь Ноздрева с Байроном, c'est le mot.<fn><sup> <a class="fnr ho" id="fnr4" name="fns4">4</sup></fn> Посмотрите на них внимательно: они кувыркаются и визжат от радости, как щенки на солнце, они счастливы, они победители! Какой тут Байрон!.. И притом какие будни! Какая кухарочная раздражительность самолюбия, какая пошленькая жаждишка faire du bruit autour de son nom,<fn><sup> <a class="fnr ho" id="fnr5" name="fns5">5</sup></fn> не замечая, что son nom... О карикатура! Помилуй, кричу ему, да неужто ты себя такого, как есть, людям взамен Христа предложить желаешь? Il rit. Il rit beaucoup, il rit trop.<fn><sup> <a class="fnr ho" id="fnr6" name="fns6">6</sup></fn> У него какая-то странная улыбка. У его матери не было такой улыбки. Il rit toujours.<fn><sup> <a class="fnr ho" id="fnr7" name="fns7">7</sup></fn></z>
+<z><o></o>Опять наступило молчание.</z>
+<z><o></o>— Они хитры; в воскресенье они сговорились... — брякнул он вдруг.</z>
+<z><o></o>— О, без сомнения, — вскричал я, навострив уши, — всё это стачка и сшито белыми нитками, и так дурно разыграно.</z>
+<z><o></o>— Я не про то. Знаете ли, что всё это было нарочно сшито белыми нитками, чтобы заметили те... кому надо. Понимаете это?</z>
+<z><o></o>— Нет, не понимаю.</z>
+<z><o></o>— Tant mieux. Passons.<fn><sup> <a class="fnr ho" id="fnr8" name="fns8">8</sup></fn> Я очень раздражен сегодня.</z>
+<z><o></o>— Да зачем же вы с ним спорили, Степан Трофимович? — проговорил я укоризненно.</z>
+<z><o></o>— Je voulais convertir.<fn><sup> <a class="fnr ho" id="fnr9" name="fns9">9</sup></fn> Конечно, смейтесь. Cette pauvre тетя, elle entendra de belles choses!<fn><sup> <a class="fnr ho" id="fnr10" name="fns10">10</sup></fn> О друг мой, поверите ли, что я давеча ощутил себя патриотом! Впрочем, я всегда сознавал себя русским... да настоящий русский и не может быть иначе, как мы с вами. Il y a là dedans quelque chose d'aveugle et de louche.<fn><sup> <a class="fnr ho" id="fnr11" name="fns11">11</sup></fn></z>
+<z><o></o>— Непременно, — ответил я.</z>
+<z><o></o>— Друг мой, настоящая правда всегда неправдоподобна, знаете ли вы это? Чтобы сделать правду правдоподобнее, нужно непременно подмешать к ней лжи. Люди всегда так и поступали. Может быть, тут есть, чего мы не понимаем. Как вы думаете, есть тут, чего мы не понимаем, в этом победоносном визге? Я бы желал, чтобы было. Я бы желал.</z>
+<z><o></o>Я промолчал. Он тоже очень долго молчал.</z>
+<z><o></o>— Говорят, французский ум... — залепетал он вдруг точно в жару, — это ложь, это всегда так и было. Зачем клеветать на французский ум? Тут просто русская лень, наше унизительное бессилие произвести идею, наше отвратительное паразитство в ряду народов. Ils sont tout simplement des paresseux,<fn><sup> <a class="fnr ho" id="fnr12" name="fns12">12</sup></fn> а не французский ум. О, русские должны бы быть истреблены для блага человечества, как вредные паразиты! Мы вовсе, вовсе не к тому стремились; я ничего не понимаю. Я перестал понимать! Да понимаешь ли, кричу ему, понимаешь ли, что если у вас гильотина на первом плане и с таким восторгом, то это единственно потому, что рубить головы всего легче, а иметь идею всего труднее! Vous êtes des paresseux! Votre drapeau est une guenille, une impuissance.<fn><sup> <a class="fnr ho" id="fnr13" name="fns13">13</sup></fn> Эти телеги, или как там: «стук телег, подвозящих хлеб человечеству», полезнее Сикстинской Мадонны, или как у них там... une bêtise dans ce genre.<fn><sup> <a class="fnr ho" id="fnr14" name="fns14">14</sup></fn> Но понимаешь ли, кричу ему, понимаешь ли ты, что человеку кроме счастья, так же точно и совершенно во столько же, необходимо и несчастие! Il rit. Ты, говорит, здесь бонмо отпускаешь, «нежа свои члены (он пакостнее выразился) на бархатном диване...». И заметьте, эта наша привычка на <i>ты</i> отца с сыном: хорошо, когда оба согласны, ну, а если ругаются? С минуту опять помолчали.</z>
+<z><o></o>— Cher, — заключил он вдруг, быстро приподнявшись, — знаете ли, что это непременно чем-нибудь кончится?</z>
+<z><o></o>— Уж конечно, — сказал я.</z>
+<z><o></o>— Vous ne comprenez pas. Passons.<fn><sup> <a class="fnr ho" id="fnr15" name="fns15">15</sup></fn> Но... обыкновенно на свете кончается ничем, но здесь будет конец, непременно, непременно!</z>
+<z><o></o>Он встал, прошелся по комнате в сильнейшем волнении и, дойдя опять до дивана, бессильно повалился на него.</z>
+<z><o></o>В пятницу утром Петр Степанович уехал куда-то в уезд и пробыл до понедельника. Об отъезде его я узнал от Липутина, и тут же, как-то к разговору, узнал от него, что Лебядкины, братец и сестрица, оба где-то за рекой, в Горшечной слободке. «Я же и перевозил», — прибавил Липутин и, прервав о Лебядкиных, вдруг возвестил мне, что Лизавета Николаевна выходит за Маврикия Николаевича, и хоть это и не объявлено, но помолвка была и дело покончено. Назавтра я встретил Лизавету Николаевну верхом в сопровождении Маврикия Николаевича, выехавшую в первый раз после болезни. Она сверкнула на меня издали глазами, засмеялась и очень дружески кивнула головой. Всё это я передал Степану Трофимовичу; он обратил некоторое внимание лишь на известие о Лебядкиных.</z>
+<z><o></o>А теперь, описав наше загадочное положение в продолжение этих восьми дней, когда мы еще ничего не знали, приступлю к описанию последующих событий моей хроники и уже, так сказать, с знанием дела, в том виде, как всё это открылось и объяснилось теперь. Начну именно с восьмого дня после того воскресенья, то есть с понедельника вечером, потому что, в сущности, с этого вечера и началась «новая история».</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn>1</fnn></fnb>
+<z><o></o>«Сын, возлюбленный сын» <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt2"><fnb><fnn>2</fnn></fnb>
+<z><o></o>Он смеется <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt3"><fnb><fnn>3</fnn></fnb>
+<z><o></o>Оставим это <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt4"><fnb><fnn>4</fnn></fnb>
+<z><o></o>именно так <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt5"><fnb><fnn>5</fnn></fnb>
+<z><o></o>поднимать шум вокруг своего имени <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt6"><fnb><fnn>6</fnn></fnb>
+<z><o></o>Он смеется. Он много, слишком много смеется <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt7"><fnb><fnn>7</fnn></fnb>
+<z><o></o>Он всегда смеется <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt8"><fnb><fnn>8</fnn></fnb>
+<z><o></o>Тем лучше. Оставим это <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt9"><fnb><fnn>9</fnn></fnb>
+<z><o></o>Я хотел переубедить <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt10"><fnb><fnn>10</fnn></fnb>
+<z><o></o>А эта бедная тетя, хорошенькие вещи она услышит! <i>(франц.)</i><div style="font-size:0;"></div></z></span><span id="fnt11"><fnb><fnn>11</fnn></fnb>
+<z><o></o>Тут скрывается что-то слепое и подозрительное <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt12"><fnb><fnn>12</fnn></fnb>
+<z><o></o>Они попросту лентяи <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt13"><fnb><fnn>13</fnn></fnb>
+<z><o></o>Вы лентяи! Ваше знамя — тряпка, воплощение бессилия <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt14"><fnb><fnn>14</fnn></fnb>
+<z><o></o>какая-то глупость в этом роде <i>(франц.).</i><div style="font-size:0;"></div></z></span><span id="fnt15"><fnb><fnn>15</fnn></fnb>
+<z><o></o>Вы не понимаете. Оставим это <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div class="rbg" id="bnbg" style="z-index:7;height:3em;bottom:0px"><div class="bnvin" id="bnav"><div><pr1></pr1><pr2></pr2></div><div class="navlnktxt">I</div><span class="tocb ho" id="toc" title="Оглавление">44/108</span><div class="navlnktxt">III</div><div><nx1></nx1><nx2></nx2></div></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">© Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr='<img src="/cntr/1544/cntr.g">';</script>
+</div>
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div class="f fc jsb ci" id="in" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div class="ib" id="right-rectangle-stick-1" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div class="ib" id="gglad" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+<div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+<div class="tc">
+<div class="ib" id="right-rectangle-stick-2" style="max-width:400px"></div>
+<div class="ib" id="btmad" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: otklik@ilibrary.ru</span><span class="bmi">О библиотеке</span><span class="bmi">Реклама на сайте</span></div>
+<div>©1996—2026 Алексей Комаров. Подборка произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+
+<script type="text/javascript">   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+
+</body>
+</html>
+<!-- 0.000514657 -->
