@@ -87,6 +87,7 @@ def process_text(text):
     
     tokens_set = set()
     lemma_to_tokens = defaultdict(set)
+    inverted_index = defaultdict(list)
     
     for token in doc.tokens:
         original = token.text.strip('.,;:!?()[]""\'"…«»—')
@@ -129,8 +130,9 @@ def process_text(text):
                 part_lemma = part
             
             lemma_to_tokens[part_lemma].add(part)
+            inverted_index[part_lemma].append(token.start)
     
-    return tokens_set, lemma_to_tokens
+    return tokens_set, lemma_to_tokens, inverted_index
 
 
 def main():
@@ -149,7 +151,7 @@ def main():
         text = extract_text_from_html(filepath)
         
         if text:
-            tokens, lemma_to_tokens = process_text(text)
+            tokens, lemma_to_tokens, _ = process_text(text)
             
             all_tokens.update(tokens)
             for lemma, tokens_set in lemma_to_tokens.items():
