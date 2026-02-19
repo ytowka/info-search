@@ -88,7 +88,7 @@ def process_text(text):
     tokens_set = set()
     lemma_to_tokens = defaultdict(set)
     inverted_index = defaultdict(list)
-    
+
     for token in doc.tokens:
         original = token.text.strip('.,;:!?()[]""\'"…«»—')
         if not original:
@@ -142,36 +142,28 @@ def main():
     
     print(f'Processing {len(html_files)} HTML files...')
     
-    all_tokens = set()
-    all_lemma_to_tokens = defaultdict(set)
-    
-    for i, filepath in enumerate(html_files, 1):
-        print(f'[{i}/{len(html_files)}] Processing {filepath.name}...', end='\r')
+    for filepath in html_files:
+        file_num = filepath.stem
+        print(f'Processing {filepath.name}...', end='\r')
         
         text = extract_text_from_html(filepath)
         
         if text:
             tokens, lemma_to_tokens, _ = process_text(text)
             
-            all_tokens.update(tokens)
-            for lemma, tokens_set in lemma_to_tokens.items():
-                all_lemma_to_tokens[lemma].update(tokens_set)
-    
-    print(f'\n\nFound {len(all_tokens)} unique tokens')
-    print(f'Found {len(all_lemma_to_tokens)} unique lemmas')
-    
-    tokens_path = OUTPUT_DIR / 'tokens.txt'
-    with open(tokens_path, 'w', encoding='utf-8') as f:
-        for token in sorted(all_tokens):
-            f.write(f'{token}\n')
-    print(f'Saved tokens to {tokens_path}')
-    
-    lemmas_path = OUTPUT_DIR / 'lemmas.txt'
-    with open(lemmas_path, 'w', encoding='utf-8') as f:
-        for lemma in sorted(all_lemma_to_tokens.keys()):
-            tokens_str = ' '.join(sorted(all_lemma_to_tokens[lemma]))
-            f.write(f'{lemma} {tokens_str}\n')
-    print(f'Saved lemmas to {lemmas_path}')
+            file_output_dir = OUTPUT_DIR / file_num
+            file_output_dir.mkdir(exist_ok=True)
+            
+            tokens_path = file_output_dir / 'tokens.txt'
+            with open(tokens_path, 'w', encoding='utf-8') as f:
+                for token in sorted(tokens):
+                    f.write(f'{token}\n')
+            
+            lemmas_path = file_output_dir / 'lemmas.txt'
+            with open(lemmas_path, 'w', encoding='utf-8') as f:
+                for lemma in sorted(lemma_to_tokens.keys()):
+                    tokens_str = ' '.join(sorted(lemma_to_tokens[lemma]))
+                    f.write(f'{lemma} {tokens_str}\n')
 
 
 if __name__ == '__main__':
