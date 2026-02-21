@@ -1,13 +1,9 @@
-import sys
 import math
 from pathlib import Path
 from collections import defaultdict
 from natasha import Doc
 
-sys.path.insert(0, str(Path(__file__).parent.parent / 'task2'))
-
-
-from tokenize_lemmatize import (
+from task2.tokenize_lemmatize import (
     PAGES_DIR, extract_text_from_html, is_valid_token,
     split_hyphenated, STOP_WORDS, segmenter, morph_tagger
 )
